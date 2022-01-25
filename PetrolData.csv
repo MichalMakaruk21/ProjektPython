@@ -1,0 +1,988 @@
+Date;Company;Adress;Province;Fuel;Prize
+02.01.2022;PKN ORLEN; Gronostajowa 1, Gdańsk;pomorskie;95;5,75
+02.01.2022;PKN ORLEN; Brzeska 42, Bochnia;małopolskie;95;5,53
+02.01.2022;PKN ORLEN; Słupska, Miastko;pomorskie;95;5,99
+02.01.2022;PKN ORLEN; Wojska Polskiego 17, Świętochłowice;śląskie;95;5,75
+02.01.2022;PKN ORLEN; Rawicka 2 (w pobliżu DK94), Wrocław;dolnośląskie;95;5,75
+02.01.2022;PKN ORLEN; Wojska Polskiego 17, Świętochłowice;śląskie;98;5,99
+02.01.2022;PKN ORLEN; Poznańska 40, Krobia;wielkopolskie;98;5,99
+02.01.2022;PKN ORLEN; Tarnogórska 3, Tworóg;śląskie;98;6,02
+02.01.2022;PKN ORLEN; Adama Mickiewicza, Starogard Gdański;pomorskie;ON;5,79
+02.01.2022;PKN ORLEN; Muchoborska 9, Wrocław;dolnośląskie;ON;5,79
+02.01.2022;PKN ORLEN; Żółkiewskiego 12, Radom;mazowieckie;ON;5,79
+02.01.2022;PKN ORLEN; Tadeusza Kościuszki , Gniew;pomorskie;ON;5,71
+02.01.2022;PKN ORLEN; Brzeska 16, Niepołomice;małopolskie;ON;5,61
+02.01.2022;PKN ORLEN; Wojska Polskiego 17, Świętochłowice;śląskie;ON+;5,99
+02.01.2022;PKN ORLEN; Poznańska 40, Krobia;wielkopolskie;ON+;5,99
+02.01.2022;PKN ORLEN; Tarnogórska 3, Tworóg;śląskie;ON+;6,09
+02.01.2022;PKN ORLEN; Tadeusza Kościuszki 35, Żory;śląskie;ON+;5,89
+02.01.2022;PKN ORLEN; Wrocławska, Września;wielkopolskie;LPG;3,18
+02.01.2022;PKN ORLEN; Brzeska 42, Bochnia;małopolskie;LPG;3,08
+02.01.2022;PKN ORLEN; Wojska Polskiego 17, Świętochłowice;śląskie;LPG;3,17
+02.01.2022;PKN ORLEN; Bartkowa 294, Gródek nad Dunajcem;małopolskie;LPG;3,21
+02.01.2022;PKN ORLEN; Lubelska 47, Puławy;lubelskie;LPG;3,22
+02.01.2022;Shell; Żdżary 17H, Goleniów;zachodniopomorskie;100;5,85
+02.01.2022;Shell; Śląska 10, Świętochłowice;śląskie;95;5,75
+02.01.2022;Shell; Śląska 10, Świętochłowice;śląskie;ON;5,79
+02.01.2022;Shell; Jana Kasprowicza 6/8, Zgierz;łódzkie;LPG;3,44
+02.01.2022;Shell; Warszawska 2, Kałuszyn;mazowieckie;LPG;3,28
+02.01.2022;BP; Wojska Polskiego 119, Bełchatów;łódzkie;95;5,63
+02.01.2022;BP; Kocmyrzowska 43, Kraków;małopolskie;95;5,77
+02.01.2022;BP; Kasprowicza 1, Pruszcz Gdański;pomorskie;95;5,79
+02.01.2022;BP; Gdańska 20, Zabrze;śląskie;ON;5,89
+02.01.2022;BP; Henryka Sienkiewicza 14, Mielec;podkarpackie;ON;5,79
+02.01.2022;BP; DK7 (Krakowska 24), Mogilany;małopolskie;ON;5,89
+02.01.2022;BP; Okrzei 89, Włocławek;kujawsko-pomorskie;LPG;3,24
+02.01.2022;BP; Na Czekaj 13, Bibice;małopolskie;LPG;3,38
+02.01.2022;Circle K (Statoil); Aleja Matki Bożej Fatimskiej 103, Tarnów;małopolskie;LPG;3,11
+02.01.2022;Circle K (Statoil); Jana Pawła II 56, Białystok;podlaskie;95;5,76
+02.01.2022;Circle K (Statoil); Katowicka 1, Żory;śląskie;95;5,51
+02.01.2022;Circle K (Statoil); Aleja Rodowicza 6, Warszawa;mazowieckie;ON;5,68
+02.01.2022;Circle K (Statoil); Cieśle 50, Oleśnica;dolnośląskie;ON;5,64
+03.01.2022;PKN ORLEN; Tadeusza Kościuszki 56, Kutno;łódzkie;95;5,73
+03.01.2022;PKN ORLEN; Lwowska 140, Nowy Sącz;małopolskie;95;5,75
+03.01.2022;PKN ORLEN; Podłopień 303, Tymbark;małopolskie;95;5,70
+03.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;95;5,75
+03.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;95;5,73
+03.01.2022;PKN ORLEN; Ślężna 129A, Wrocław;dolnośląskie;98;5,99
+03.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;98;5,99
+03.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;98;5,99
+03.01.2022;PKN ORLEN; 1 Maja 3A, Szklarska Poręba;dolnośląskie;98;5,99
+03.01.2022;PKN ORLEN; Rzeszowska , Dębica;podkarpackie;98;5,94
+03.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;ON;5,79
+03.01.2022;PKN ORLEN; Kościelna, Poznań;wielkopolskie;ON;5,77
+03.01.2022;PKN ORLEN; Rzeszowska , Dębica;podkarpackie;ON;5,64
+03.01.2022;PKN ORLEN; Kolberga 2 , Opoczno;łódzkie;ON;5,79
+03.01.2022;PKN ORLEN; 1 Maja 3A, Szklarska Poręba;dolnośląskie;ON;5,79
+03.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;ON+;5,99
+03.01.2022;PKN ORLEN; Kościelna, Poznań;wielkopolskie;ON+;5,99
+03.01.2022;PKN ORLEN; Rzeszowska , Dębica;podkarpackie;ON+;5,94
+03.01.2022;PKN ORLEN; Zawadzka 40, Łomża;podlaskie;ON+;5,99
+03.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;ON+;5,97
+03.01.2022;PKN ORLEN; Józefa Wybickiego 3A, Kraków;małopolskie;LPG;3,02
+03.01.2022;PKN ORLEN; Sandomierska, Kielce;świętokrzyskie;LPG;3,13
+03.01.2022;PKN ORLEN; Powstańców Śląskich 1a, Oświęcim;małopolskie;LPG;3,08
+03.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;LPG;3,21
+03.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;LPG;3,23
+03.01.2022;Shell; Grunwaldzka 66, Kielce;świętokrzyskie;98;6,25
+03.01.2022;Shell; Aleja Tysiąclecia Państwa Polskiego 72, Białystok;podlaskie;ON+;5,77
+03.01.2022;Shell; Ks. Piotra Ściegiennego 58, Katowice;śląskie;100;5,74
+03.01.2022;Shell; Pułtuska 65, Ciechanów;mazowieckie;100;5,54
+03.01.2022;Shell; Żyrardowska 47, Sochaczew;mazowieckie;ON;5,85
+03.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;LPG;3,09
+03.01.2022;BP; Jarosława Dąbrowskiego 18, Gliwice;śląskie;95;5,75
+03.01.2022;BP; Człuchowska , Chojnice;pomorskie;95;5,75
+03.01.2022;BP; Fieldorfa-Nila 41A, Warszawa;mazowieckie;95;5,75
+03.01.2022;BP; Krakowska 150, Skarżysko-Kamienna;świętokrzyskie;95;5,67
+03.01.2022;BP; Bulwarowa 1, Kraków;małopolskie;95;6,05
+03.01.2022;BP; Płochocińska 93, Warszawa;mazowieckie;95+;5,73
+03.01.2022;BP; Modlińska 195, Warszawa;mazowieckie;95+;5,74
+03.01.2022;BP; Człuchowska , Chojnice;pomorskie;98;6,11
+03.01.2022;BP; Człuchowska , Chojnice;pomorskie;ON;5,79
+03.01.2022;BP; Lwowska 120, Tarnów;małopolskie;ON;5,78
+03.01.2022;BP; Brzeska 14, Bochnia;małopolskie;ON;5,62
+03.01.2022;BP; Człuchowska , Chojnice;pomorskie;ON+;6,09
+03.01.2022;BP; Człuchowska , Chojnice;pomorskie;LPG;3,24
+03.01.2022;Circle K (Statoil); Rzgowska 211, Łódź;łódzkie;LPG;3,08
+03.01.2022;Circle K (Statoil); Karkonoska 52, Wrocław;dolnośląskie;LPG;3,11
+03.01.2022;Circle K (Statoil); Aleje Jerozolimskie 228, Warszawa;mazowieckie;LPG;3,19
+04.01.2022;PKN ORLEN; Sobieskiego 16, Legionowo;mazowieckie;95;5,75
+04.01.2022;PKN ORLEN; Zgorzelecka 24, Bolesławiec;dolnośląskie;95;5,75
+04.01.2022;PKN ORLEN; Cieszkowskiego 13B, Bolesławiec;dolnośląskie;95;5,75
+04.01.2022;PKN ORLEN; Brzeska 16, Niepołomice;małopolskie;95;5,55
+04.01.2022;PKN ORLEN; Ignacego Mościckiego 166 , Tarnów;małopolskie;95;5,67
+04.01.2022;PKN ORLEN; Zgorzelecka 24, Bolesławiec;dolnośląskie;98;5,99
+04.01.2022;PKN ORLEN; Cieszkowskiego 13B, Bolesławiec;dolnośląskie;98;5,99
+04.01.2022;PKN ORLEN; Adama Mickiewicza, Starogard Gdański;pomorskie;98;5,99
+04.01.2022;PKN ORLEN; Wielkie Przedmieście 1A, Olesno;opolskie;98;5,99
+04.01.2022;PKN ORLEN; Adama Mickiewicza, Starogard Gdański;pomorskie;ON;5,74
+04.01.2022;PKN ORLEN; Franciszka Hynka 2, Warszawa;mazowieckie;ON;5,79
+04.01.2022;PKN ORLEN; Aleja Józefa Piłsudskiego 2, Płock;mazowieckie;ON;5,79
+04.01.2022;PKN ORLEN; Wielkie Przedmieście 1A, Olesno;opolskie;ON;5,74
+04.01.2022;PKN ORLEN; Zamkowa, Rakoniewice;wielkopolskie;ON;5,70
+04.01.2022;PKN ORLEN; Adama Mickiewicza, Starogard Gdański;pomorskie;ON+;5,97
+04.01.2022;PKN ORLEN; Wielkie Przedmieście 1A, Olesno;opolskie;ON+;5,99
+04.01.2022;PKN ORLEN; Zgorzelecka 24, Bolesławiec;dolnośląskie;ON+;5,99
+04.01.2022;PKN ORLEN; Cieszkowskiego 13B, Bolesławiec;dolnośląskie;ON+;5,99
+04.01.2022;PKN ORLEN; Czarna 1, Zgierz;łódzkie;ON+;5,99
+04.01.2022;PKN ORLEN; Lubelska, Janów Lubelski;lubelskie;LPG;3,08
+04.01.2022;PKN ORLEN; Zgorzelecka 24, Bolesławiec;dolnośląskie;LPG;3,20
+04.01.2022;PKN ORLEN; Cieszkowskiego 13B, Bolesławiec;dolnośląskie;LPG;3,20
+04.01.2022;PKN ORLEN; Adama Mickiewicza, Starogard Gdański;pomorskie;LPG;3,14
+04.01.2022;PKN ORLEN; Pamiątkowa 2, Międzyrzecz;lubuskie;LPG;3,15
+04.01.2022;Shell; Gubińska 6, Wrocław;dolnośląskie;98;5,75
+04.01.2022;Shell; Cieszyńska 160, Bielsko-Biała;śląskie;98;5,77
+04.01.2022;Shell; Zręcińska 2a, Krosno;podkarpackie;98;5,99
+04.01.2022;Shell; Rokicińska 192, Łódź;łódzkie;98;5,68
+04.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;98;5,68
+04.01.2022;Shell; Pszczyńska 24, Mikołów;śląskie;ON+;6,28
+04.01.2022;Shell; Aleja Piłsudskiego 98, Łódź;łódzkie;100;5,66
+04.01.2022;Shell; Gubińska 6, Wrocław;dolnośląskie;100;5,73
+04.01.2022;Shell; Trakt Św. Wojciecha 223, Gdańsk;pomorskie;100;5,79
+04.01.2022;Shell; Wiśniowa 87, Wrocław;dolnośląskie;100;5,75
+04.01.2022;Shell; Gdańska 23, Polkowice;dolnośląskie;100;5,75
+04.01.2022;Shell; Pszczyńska 24, Mikołów;śląskie;95;5,75
+04.01.2022;Shell; Spółdzielcza 15, Bolesławiec;dolnośląskie;95;5,79
+04.01.2022;Shell; Grunwaldzka 560, Gdańsk;pomorskie;95;4,95
+04.01.2022;Shell; Kluczborska 41, Olesno;opolskie;95;5,71
+04.01.2022;Shell; Pszczyńska 24, Mikołów;śląskie;ON;5,79
+04.01.2022;Shell; Spółdzielcza 15, Bolesławiec;dolnośląskie;ON;5,83
+04.01.2022;Shell; Stanisława Stojałowskiego 1, Kraków;małopolskie;ON;5,77
+04.01.2022;Shell; Kluczborska 41, Olesno;opolskie;ON;5,74
+04.01.2022;Shell; Pszczyńska 24, Mikołów;śląskie;LPG;3,16
+04.01.2022;Shell; Spółdzielcza 15, Bolesławiec;dolnośląskie;LPG;3,24
+04.01.2022;Shell; Kluczborska 41, Olesno;opolskie;LPG;3,13
+04.01.2022;Shell; Pułtuska 65, Ciechanów;mazowieckie;LPG;2,99
+04.01.2022;BP; Aleja 29 Listopada 125, Kraków;małopolskie;95;5,72
+04.01.2022;BP; Kelles Krauza 1B, Radom;mazowieckie;95;5,73
+04.01.2022;BP; Kolonia Łaszczówka, Tomaszów Lubelski;lubelskie;95;5,75
+04.01.2022;BP; Wesoła 23A, Bolesławiec;dolnośląskie;95;5,76
+04.01.2022;BP; Aleje Jerozolimskie 202, Warszawa;mazowieckie;95;5,75
+04.01.2022;BP; Pułkownika Dąbka 74, Elbląg;warmińsko-mazurskie;98;6,02
+04.01.2022;BP; Wesoła 23A, Bolesławiec;dolnośląskie;98;6,14
+04.01.2022;BP; Aleje Jerozolimskie 144c, Warszawa;mazowieckie;ON;5,79
+04.01.2022;BP; Kolonia Łaszczówka, Tomaszów Lubelski;lubelskie;ON;5,79
+04.01.2022;BP; Zakopiańska 107, Kraków;małopolskie;ON;5,79
+04.01.2022;BP; Wesoła 23A, Bolesławiec;dolnośląskie;ON;5,81
+04.01.2022;BP; Skurów 84, Grójec;mazowieckie;ON;5,77
+04.01.2022;BP; Wesoła 23A, Bolesławiec;dolnośląskie;ON+;6,11
+04.01.2022;BP; Poznańska 26/30, Łowicz;łódzkie;LPG;3,15
+04.01.2022;BP; Wesoła 23A, Bolesławiec;dolnośląskie;LPG;3,10
+04.01.2022;BP; DK32 (Trasa Północna, ul. Świebodzińska 2), Zielona Góra;lubuskie;LPG;3,05
+04.01.2022;Circle K (Statoil); Tadeusza Kościuszki 1, Bolesławiec;dolnośląskie;LPG;3,23
+04.01.2022;Circle K (Statoil); Tadeusza Kościuszki 1, Bolesławiec;dolnośląskie;95;5,75
+04.01.2022;Circle K (Statoil); Tadeusza Kościuszki 1, Bolesławiec;dolnośląskie;ON;5,82
+04.01.2022;Circle K (Statoil); Leonharda 9, Olsztyn;warmińsko-mazurskie;ON;5,81
+04.01.2022;Circle K (Statoil); Tadeusza Kościuszki 1, Bolesławiec;dolnośląskie;98;6,09
+04.01.2022;Circle K (Statoil); Tadeusza Kościuszki 1, Bolesławiec;dolnośląskie;ON+;6,09
+05.01.2022;PKN ORLEN; Beskidzka 60, Tychy;śląskie;95;5,63
+05.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;95;5,69
+05.01.2022;PKN ORLEN; Brzeska 16, Niepołomice;małopolskie;95;5,63
+05.01.2022;PKN ORLEN; Lubelska 47, Puławy;lubelskie;95;5,62
+05.01.2022;PKN ORLEN; Kusocińskiego 4, Świdnik;lubelskie;95;5,69
+05.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;98;5,99
+05.01.2022;PKN ORLEN; Okrzei 125 , Krasnystaw;lubelskie;98;5,99
+05.01.2022;PKN ORLEN; Leśna 15, Wronki;wielkopolskie;98;5,99
+05.01.2022;PKN ORLEN; Tuligłowy 168, Krasnystaw;lubelskie;98;5,99
+05.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;98;5,96
+05.01.2022;PKN ORLEN; Wieniawskiego 68, Wałbrzych;dolnośląskie;ON;5,76
+05.01.2022;PKN ORLEN; Tuligłowy 168, Krasnystaw;lubelskie;ON;5,75
+05.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;ON;5,75
+05.01.2022;PKN ORLEN; Władysława Łokietka 4, Brzeg;opolskie;ON;5,99
+05.01.2022;PKN ORLEN; Kłodzka 5, Polanica-Zdrój;dolnośląskie;ON;5,74
+05.01.2022;PKN ORLEN; DW812, Siennica Nadolna;lubelskie;ON+;5,95
+05.01.2022;PKN ORLEN; Tuligłowy 168, Krasnystaw;lubelskie;ON+;5,95
+05.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;ON+;5,95
+05.01.2022;PKN ORLEN; Bogumińska 254, Chałupki k/Gorzyc;śląskie;ON+;5,68
+05.01.2022;PKN ORLEN; Okrzei 125 , Krasnystaw;lubelskie;ON+;6,05
+05.01.2022;PKN ORLEN; Św. Antoniego 92/94, Tomaszów Mazowiecki;łódzkie;LPG;3,15
+05.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;LPG;3,03
+05.01.2022;PKN ORLEN; Okrzei 125 , Krasnystaw;lubelskie;LPG;3,21
+05.01.2022;PKN ORLEN; T.Michałka , Leżajsk;podkarpackie;LPG;3,09
+05.01.2022;PKN ORLEN; Tuligłowy 168, Krasnystaw;lubelskie;LPG;3,18
+05.01.2022;Shell; Budowlanych 63, Tychy;śląskie;98;6,19
+05.01.2022;Shell; Puławska 332/334, Warszawa;mazowieckie;100;5,71
+05.01.2022;Shell; Bułgarska 119, Poznań;wielkopolskie;95;5,74
+05.01.2022;Shell; Puławska 437, Warszawa;mazowieckie;LPG;3,21
+05.01.2022;BP; Wesoła 23A, Bolesławiec;dolnośląskie;95;5,76
+05.01.2022;BP; Ignacego Paderewskiego 8, Zawiercie;śląskie;95;5,72
+05.01.2022;BP; Radzymińska 295, Warszawa;mazowieckie;95;5,75
+05.01.2022;BP; Aleje Jerozolimskie 202, Warszawa;mazowieckie;ON;5,54
+05.01.2022;BP; Marcina Kromera 16-28, Wrocław;dolnośląskie;ON;5,75
+05.01.2022;BP; Kwiatkowskiego 227, Tarnów;małopolskie;ON;5,73
+05.01.2022;BP; Wesoła 23A, Bolesławiec;dolnośląskie;LPG;3,19
+05.01.2022;BP; Wyszyńskiego 3, Olsztyn;warmińsko-mazurskie;LPG;3,25
+05.01.2022;BP; Wielącza Wieś 100C, Szczebrzeszyn;lubelskie;LPG;3,13
+05.01.2022;BP; Nadbrzezie 1A, Kraków;małopolskie;LPG;2,43
+05.01.2022;BP; Jabłoniowa 51, Gdańsk;pomorskie;LPG;3,19
+05.01.2022;Circle K (Statoil); Wilsona 2, Przemyśl;podkarpackie;LPG;3,06
+05.01.2022;Circle K (Statoil); Partyzantów 44, Bielsko-Biała;śląskie;LPG;3,19
+06.01.2022;PKN ORLEN; Erazma Jerzmanowskiego 39, Kraków;małopolskie;95;5,75
+06.01.2022;PKN ORLEN; Filomatów/Ostrobramska 6, Warszawa;mazowieckie;95;5,67
+06.01.2022;PKN ORLEN; Warszawska 129K, Wieruszów;łódzkie;95;5,75
+06.01.2022;PKN ORLEN; Żółkiewskiego 12, Radom;mazowieckie;95;5,73
+06.01.2022;PKN ORLEN; Kcyńska 25, Gdynia;pomorskie;95;5,75
+06.01.2022;PKN ORLEN; Kołobrzeska 28A, Gdańsk;pomorskie;ON;5,75
+06.01.2022;PKN ORLEN; Filomatów/Ostrobramska 6, Warszawa;mazowieckie;LPG;3,13
+06.01.2022;PKN ORLEN; DK9, Widełka;podkarpackie;LPG;2,97
+06.01.2022;Shell; Gubińska 6, Wrocław;dolnośląskie;100;5,73
+06.01.2022;Shell; Mińska 41, Wrocław;dolnośląskie;ON;5,83
+06.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;ON;5,73
+06.01.2022;Shell; Wilczyńskiego 31, Olsztyn;warmińsko-mazurskie;ON;5,79
+06.01.2022;Shell; Krakowska, Jaworzno;śląskie;ON;5,69
+06.01.2022;BP; DW468 (Morska 40), Gdynia;pomorskie;95;5,72
+06.01.2022;BP; Płochocińska 93, Warszawa;mazowieckie;95;5,76
+06.01.2022;BP; Józefa Piłsudskiego 2j, Dąbrowa Górnicza;śląskie;ON;5,77
+06.01.2022;BP; Rybnicka 150, Gliwice;śląskie;ON;5,78
+06.01.2022;BP; Mławska 9, Ciechanów;mazowieckie;ON;5,70
+06.01.2022;BP; DW964, Staniątki;małopolskie;ON+;5,67
+06.01.2022;BP; Rybnicka 31, Gliwice;śląskie;LPG;3,14
+06.01.2022;BP; Pomianowska 2a, Brzesko;małopolskie;LPG;3,09
+06.01.2022;Circle K (Statoil); Jana Pawła II 15, Lublin;lubelskie;95;5,60
+06.01.2022;Circle K (Statoil); Dmowskiego 5, Wrocław;dolnośląskie;95;5,95
+06.01.2022;Circle K (Statoil); Dmowskiego 5, Wrocław;dolnośląskie;ON+;5,35
+06.01.2022;Circle K (Statoil); Sucha 15 C, Wrocław;dolnośląskie;ON+;6,05
+07.01.2022;PKN ORLEN; Goleniowska 99, Szczecin;zachodniopomorskie;95;5,72
+07.01.2022;PKN ORLEN; Bogumińska 254, Chałupki k/Gorzyc;śląskie;95;5,75
+07.01.2022;PKN ORLEN; Kasprowicza 12, Wojkowice;śląskie;95;5,59
+07.01.2022;PKN ORLEN; Warszawska 2, Gołdap;warmińsko-mazurskie;95;5,75
+07.01.2022;PKN ORLEN; Polna 10, Toruń;kujawsko-pomorskie;95;5,74
+07.01.2022;PKN ORLEN; Bogumińska 254, Chałupki k/Gorzyc;śląskie;98;5,99
+07.01.2022;PKN ORLEN; Bolesława Krzywoustego 172, Wrocław;dolnośląskie;98;5,99
+07.01.2022;PKN ORLEN; Warszawska 246, Poznań;wielkopolskie;98;5,96
+07.01.2022;PKN ORLEN; Poznańska 4, Swarzędz;wielkopolskie;98;5,99
+07.01.2022;PKN ORLEN; Poznańska 110, Gniezno;wielkopolskie;98;5,99
+07.01.2022;PKN ORLEN; Ludwika Zamenhofa 140, Poznań;wielkopolskie;ON;5,76
+07.01.2022;PKN ORLEN; Boh. Getta 9, Kamienna Góra;dolnośląskie;ON;5,79
+07.01.2022;PKN ORLEN; Warszawska 246, Poznań;wielkopolskie;ON;5,76
+07.01.2022;PKN ORLEN; Bałtycka 4A, Poznań;wielkopolskie;ON;5,79
+07.01.2022;PKN ORLEN; Poznańska 110, Gniezno;wielkopolskie;ON;5,78
+07.01.2022;PKN ORLEN; Warszawska 246, Poznań;wielkopolskie;ON+;5,96
+07.01.2022;PKN ORLEN; Bałtycka 4A, Poznań;wielkopolskie;ON+;5,99
+07.01.2022;PKN ORLEN; Poznańska 110, Gniezno;wielkopolskie;ON+;5,99
+07.01.2022;PKN ORLEN; Bogumińska 254, Chałupki k/Gorzyc;śląskie;ON+;5,95
+07.01.2022;PKN ORLEN; Ks. Waresiaka 11, Milicz;dolnośląskie;ON+;5,99
+07.01.2022;PKN ORLEN; Gwiezdna, Legnica;dolnośląskie;LPG;3,11
+07.01.2022;PKN ORLEN; Tarnowska 32 , Nowy Sącz;małopolskie;LPG;3,18
+07.01.2022;PKN ORLEN; Bogumińska 254, Chałupki k/Gorzyc;śląskie;LPG;3,14
+07.01.2022;PKN ORLEN; Śmigielska 62, Kościan;wielkopolskie;LPG;3,05
+07.01.2022;PKN ORLEN; Gęsia 7, Lublin;lubelskie;LPG;3,15
+07.01.2022;Shell; Poznańska 8, Swarzędz;wielkopolskie;98;6,16
+07.01.2022;Shell; Poznańska 8, Swarzędz;wielkopolskie;ON+;6,26
+07.01.2022;Shell; Bałtycka, Poznań;wielkopolskie;ON+;5,84
+07.01.2022;Shell; Aleja Jana Pawła II 5, Częstochowa;śląskie;100;5,74
+07.01.2022;Shell; Poznańska 8, Swarzędz;wielkopolskie;100;6,66
+07.01.2022;Shell; Poznańska 8, Swarzędz;wielkopolskie;95;5,72
+07.01.2022;Shell; Traktorzystów, Warszawa;mazowieckie;95;5,69
+07.01.2022;Shell; Bałtycka, Poznań;wielkopolskie;95;5,67
+07.01.2022;Shell; Poznańska 8, Swarzędz;wielkopolskie;ON;5,77
+07.01.2022;Shell; Oświęcimska 25, Tychy;śląskie;ON;5,69
+07.01.2022;Shell; Bałtycka, Poznań;wielkopolskie;ON;5,69
+07.01.2022;Shell; Poznańska 8, Swarzędz;wielkopolskie;LPG;3,25
+07.01.2022;Shell; Beskidzka, Tychy;śląskie;LPG;3,17
+07.01.2022;BP; Bałtycka 37, Poznań;wielkopolskie;95;5,75
+07.01.2022;BP; Poznańska 45, Swarzędz;wielkopolskie;95;5,72
+07.01.2022;BP; Dziekanowice 14a, Lednogóra;wielkopolskie;95;5,76
+07.01.2022;BP; Kiszkowska 7, Gniezno;wielkopolskie;95;5,79
+07.01.2022;BP; Bałtycka 37, Poznań;wielkopolskie;98;6,11
+07.01.2022;BP; Poznańska 45, Swarzędz;wielkopolskie;98;6,07
+07.01.2022;BP; Dziekanowice 14a, Lednogóra;wielkopolskie;98;6,49
+07.01.2022;BP; Kiszkowska 7, Gniezno;wielkopolskie;98;6,54
+07.01.2022;BP; Bałtycka 37, Poznań;wielkopolskie;ON;5,79
+07.01.2022;BP; Aleje Jerozolimskie 249C, Michałowice;mazowieckie;ON;5,79
+07.01.2022;BP; Poznańska 45, Swarzędz;wielkopolskie;ON;5,77
+07.01.2022;BP; Dziekanowice 14a, Lednogóra;wielkopolskie;ON;5,82
+07.01.2022;BP; Kiszkowska 7, Gniezno;wielkopolskie;ON;5,84
+07.01.2022;BP; Bałtycka 37, Poznań;wielkopolskie;ON+;6,09
+07.01.2022;BP; Poznańska 45, Swarzędz;wielkopolskie;ON+;6,06
+07.01.2022;BP; Dziekanowice 14a, Lednogóra;wielkopolskie;ON+;6,29
+07.01.2022;BP; Kiszkowska 7, Gniezno;wielkopolskie;ON+;6,39
+07.01.2022;BP; Bałtycka 37, Poznań;wielkopolskie;LPG;3,21
+07.01.2022;BP; Poznańska 45, Swarzędz;wielkopolskie;LPG;3,25
+07.01.2022;BP; Dziekanowice 14a, Lednogóra;wielkopolskie;LPG;3,25
+07.01.2022;BP; Kiszkowska 7, Gniezno;wielkopolskie;LPG;3,19
+07.01.2022;Circle K (Statoil); Żwirki i Wigury 8, Gniezno;wielkopolskie;LPG;3,19
+07.01.2022;Circle K (Statoil); Żwirki i Wigury 8, Gniezno;wielkopolskie;95;5,74
+07.01.2022;Circle K (Statoil); Proszenie 1C, Wolbórz;łódzkie;95;5,73
+07.01.2022;Circle K (Statoil); Krakowska 144C, Skarżysko-Kamienna;świętokrzyskie;ON;5,70
+07.01.2022;Circle K (Statoil); Wodzisławska 32, Żory;śląskie;ON;5,74
+07.01.2022;Circle K (Statoil); Żwirki i Wigury 8, Gniezno;wielkopolskie;ON;5,78
+07.01.2022;Circle K (Statoil); Żwirki i Wigury 8, Gniezno;wielkopolskie;98;6,09
+07.01.2022;Circle K (Statoil); Żwirki i Wigury 8, Gniezno;wielkopolskie;ON+;6,23
+08.01.2022;PKN ORLEN; Oławska 194, Jelcz-Laskowice;dolnośląskie;95;5,75
+08.01.2022;PKN ORLEN; Leśna 2B, Lubartów;lubelskie;95;5,63
+08.01.2022;PKN ORLEN; Mazowiecka 78, Książenice;mazowieckie;95;5,67
+08.01.2022;PKN ORLEN; 428, Jaksice;małopolskie;95;5,89
+08.01.2022;PKN ORLEN; Sikorskiego 60, Głogów;dolnośląskie;95;5,75
+08.01.2022;PKN ORLEN; DW468 (Śląska 45/47), Gdynia;pomorskie;ON;5,99
+08.01.2022;PKN ORLEN; Smardzów 30A, Smardzów;dolnośląskie;ON;5,69
+08.01.2022;PKN ORLEN; Wrocławska 36a, Zielona Góra;lubuskie;ON;5,92
+08.01.2022;PKN ORLEN; Morska 495, Gdynia;pomorskie;ON;5,99
+08.01.2022;PKN ORLEN; Al. Szajnowicza Iwanowa, Kielce;świętokrzyskie;ON;5,02
+08.01.2022;PKN ORLEN; Piskorzowska 3, Pieszyce;dolnośląskie;ON+;5,84
+08.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;LPG;3,03
+08.01.2022;PKN ORLEN; Mazowiecka 78, Książenice;mazowieckie;LPG;3,15
+08.01.2022;PKN ORLEN; DK19 (Krakowska 291), Rzeszów;podkarpackie;LPG;3,11
+08.01.2022;PKN ORLEN; 1-go Maja 105, Kołbiel;mazowieckie;LPG;2,91
+08.01.2022;PKN ORLEN; Pelplińska 7, Bydgoszcz;kujawsko-pomorskie;LPG;3,13
+08.01.2022;Shell; Jana Kasprowicza 6/8, Zgierz;łódzkie;LPG;3,29
+08.01.2022;BP; Kapelanka 2, Kraków;małopolskie;95;5,63
+08.01.2022;BP; Aleja Górnośląska 55, Katowice;śląskie;95;5,76
+08.01.2022;BP; Modlińska 29, Warszawa;mazowieckie;95;5,76
+08.01.2022;BP; Przemysłowa 48, Tychy;śląskie;95;5,71
+08.01.2022;BP; Henryka Sienkiewicza 14, Mielec;podkarpackie;ON;5,79
+08.01.2022;BP; Mławska 9, Ciechanów;mazowieckie;LPG;3,05
+08.01.2022;BP; Cieszyńska 17, Mikołów;śląskie;LPG;3,16
+08.01.2022;BP; Kopernika 38, Białystok;podlaskie;LPG;3,05
+08.01.2022;BP; Włostowicka 70, Puławy;lubelskie;LPG;3,09
+08.01.2022;Circle K (Statoil); Wielicka 183, Kraków;małopolskie;ON;5,79
+09.01.2022;PKN ORLEN; Ludwika Zamenhofa 140, Poznań;wielkopolskie;95;5,69
+09.01.2022;PKN ORLEN; Krakowska 4, Wieliczka;małopolskie;95;5,71
+09.01.2022;PKN ORLEN; Erazma Jerzmanowskiego 39, Kraków;małopolskie;95;5,75
+09.01.2022;PKN ORLEN; Przybyszewskiego 327, Łódź;łódzkie;95;5,68
+09.01.2022;PKN ORLEN; Księdza Piotra Ściegiennego 125C, Kielce;świętokrzyskie;ON;5,85
+09.01.2022;PKN ORLEN; Pelplińska 7, Bydgoszcz;kujawsko-pomorskie;ON;5,79
+09.01.2022;PKN ORLEN; Bałtycka 6, Olsztyn;warmińsko-mazurskie;ON;5,79
+09.01.2022;PKN ORLEN; Oławska 194, Jelcz-Laskowice;dolnośląskie;ON;5,79
+09.01.2022;PKN ORLEN; 121, Szalejów Dolny;dolnośląskie;ON;5,78
+09.01.2022;PKN ORLEN; Brzeska 1, Siedlce;mazowieckie;ON+;5,89
+09.01.2022;PKN ORLEN; Warszawska 42, Różan;mazowieckie;LPG;3,05
+09.01.2022;PKN ORLEN; Rybitwy 114, Rybitwy;kujawsko-pomorskie;LPG;3,39
+09.01.2022;PKN ORLEN; Zakopiańska 58, Kraków;małopolskie;LPG;3,03
+09.01.2022;Shell; Rokicińska 192, Łódź;łódzkie;98;6,19
+09.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;98;6,15
+09.01.2022;Shell; Limanowskiego 181/185, Łódź;łódzkie;100;6,59
+09.01.2022;Shell; Szkubacza 1, Zabrze;śląskie;100;5,50
+09.01.2022;Shell; Rokicińska 192, Łódź;łódzkie;100;6,59
+09.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;100;6,55
+09.01.2022;BP; Rzgowska 252, Łódź;łódzkie;95;5,81
+09.01.2022;BP; Fordońska 48/50, Bydgoszcz;kujawsko-pomorskie;95;5,77
+09.01.2022;BP; Wojska Polskiego 119, Bełchatów;łódzkie;95;5,63
+09.01.2022;BP; Bardzka 26, Wrocław;dolnośląskie;95;5,74
+09.01.2022;BP; Jabłoniowa 51, Gdańsk;pomorskie;95;5,75
+09.01.2022;BP; Aleja Górnośląska 55, Katowice;śląskie;ON;5,79
+09.01.2022;BP; Mławska 9, Ciechanów;mazowieckie;LPG;3,09
+09.01.2022;BP; Partyzantów 102, Bielsko-Biała;śląskie;LPG;3,15
+09.01.2022;BP; Aleja Legionów 155, Łomża;podlaskie;LPG;3,07
+09.01.2022;BP; Poznańska 100, Inowrocław;kujawsko-pomorskie;LPG;3,06
+09.01.2022;Circle K (Statoil); Hutnicza 27, Bytom;śląskie;LPG;2,99
+09.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;LPG;3,09
+09.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;95;5,79
+09.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;ON;5,84
+09.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;98;6,29
+09.01.2022;Circle K (Statoil); Pstrowskiego 10, Olsztyn;warmińsko-mazurskie;ON+;6,21
+09.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;ON+;6,27
+10.01.2022;PKN ORLEN; Piątkowska 68, Poznań;wielkopolskie;95;5,75
+10.01.2022;PKN ORLEN; Świdnicka 60, Świebodzice;dolnośląskie;95;5,75
+10.01.2022;PKN ORLEN; Asfaltowa 3, Ruda Śląska;śląskie;95;5,73
+10.01.2022;PKN ORLEN; Warszawska 231, Poznań;wielkopolskie;95;5,66
+10.01.2022;PKN ORLEN; Pilotów 4B, Kraków;małopolskie;98;6,22
+10.01.2022;PKN ORLEN; Spokojna 22, Tarnów;małopolskie;98;6,01
+10.01.2022;PKN ORLEN; Lazurowa 40, Warszawa;mazowieckie;ON;5,46
+10.01.2022;PKN ORLEN; Kazimierza Wielkiego 121, Kraków;małopolskie;ON;5,79
+10.01.2022;PKN ORLEN; Dąbrowskiego 74, Rumia;pomorskie;ON;5,69
+10.01.2022;PKN ORLEN; Sępoleńska 17, Kamień Krajeński;kujawsko-pomorskie;ON;5,77
+10.01.2022;PKN ORLEN; Henryka Sienkiewicza 106, Sępólno Krajeńskie;kujawsko-pomorskie;ON;5,79
+10.01.2022;PKN ORLEN; Al. Roździeńskiego 194, Katowice;śląskie;ON+;5,95
+10.01.2022;PKN ORLEN; Kawaleryjska , Białystok;podlaskie;ON+;5,93
+10.01.2022;PKN ORLEN; Stopnicka 23, Nowy Korczyn;świętokrzyskie;LPG;3,12
+10.01.2022;PKN ORLEN; Kłodzka 20, Ząbkowice Śląskie;dolnośląskie;LPG;3,09
+10.01.2022;PKN ORLEN; Bohaterów Porytowego Wzgórza 40A, Janów Lubelski;lubelskie;LPG;3,26
+10.01.2022;PKN ORLEN; Przy drodze nr 73, Zawadka Brzostecka;podkarpackie;LPG;3,13
+10.01.2022;PKN ORLEN; Bystrzańska 96, Bielsko-Biała;śląskie;LPG;3,15
+10.01.2022;Shell; Wojska Polskiego, Oleśnica;dolnośląskie;95;5,75
+10.01.2022;Shell; DK46 (Główna 114), Częstochowa;śląskie;95;5,73
+10.01.2022;Shell; Małopanewska 2, Wrocław;dolnośląskie;ON;6,24
+10.01.2022;Shell; Nowokarsiborska 4-8, Świnoujście;zachodniopomorskie;ON;5,96
+10.01.2022;Shell; Gostyńska 1, Kościan;wielkopolskie;ON;5,74
+10.01.2022;BP; Aleja Jana Pawła II 103/10, Częstochowa;śląskie;95;5,76
+10.01.2022;BP; Bałtycka 37, Poznań;wielkopolskie;95;5,73
+10.01.2022;BP; Kościuszki, Proszowice;małopolskie;95;5,85
+10.01.2022;BP; Radomska 2a, Pionki;mazowieckie;95;5,69
+10.01.2022;BP; Poznańska 74, Jawczyce;mazowieckie;95;5,79
+10.01.2022;BP; Zakopiańska 107, Kraków;małopolskie;ON;5,79
+10.01.2022;BP; Braterstwa Broni, Sosnowiec;śląskie;ON;5,99
+10.01.2022;BP; Kurlandzka 2, Poznań;wielkopolskie;ON;5,78
+10.01.2022;BP; Kościuszki, Proszowice;małopolskie;LPG;3,25
+10.01.2022;BP; Kątna 1, Łódź;łódzkie;LPG;3,13
+10.01.2022;BP; DK32 (Trasa Północna, ul. Świebodzińska 2), Zielona Góra;lubuskie;LPG;3,05
+10.01.2022;Circle K (Statoil); Tysiąclecia Państwa Polskiego 8C, Białystok;podlaskie;LPG;3,05
+10.01.2022;Circle K (Statoil); Powstańców Śląskich 90, Warszawa;mazowieckie;95;5,65
+10.01.2022;Circle K (Statoil); Śliwy 2, Olsztyn;warmińsko-mazurskie;95;5,73
+11.01.2022;PKN ORLEN; Lubelska 139, Kraśnik;lubelskie;95;5,95
+11.01.2022;PKN ORLEN; Jeremiego Wisniowieckiego 129, Nowy Sącz;małopolskie;95;5,75
+11.01.2022;PKN ORLEN; Kozielska 1, Zdzieszowice;opolskie;95;5,67
+11.01.2022;PKN ORLEN; Nowodworska 45, Elbląg;warmińsko-mazurskie;95;5,61
+11.01.2022;PKN ORLEN; Gliwicka 196, Rybnik;śląskie;95;5,73
+11.01.2022;PKN ORLEN; DK94 (Bytomska 2), w pobliżu A1, Wieszowa;śląskie;98;5,97
+11.01.2022;PKN ORLEN; Opolska 59, Zawadzkie;opolskie;ON;5,71
+11.01.2022;PKN ORLEN; Władysława Sikorskiego 28, Górowo Iławeckie;warmińsko-mazurskie;ON;5,73
+11.01.2022;PKN ORLEN; Beskidzka 60, Tychy;śląskie;ON;5,59
+11.01.2022;PKN ORLEN; DW786 (Żytnia 1a), Kielce;świętokrzyskie;ON;5,68
+11.01.2022;PKN ORLEN; Czerniakowska 149, Warszawa;mazowieckie;ON;5,69
+11.01.2022;PKN ORLEN; Armii Poznań 2, Pogorzela;wielkopolskie;LPG;3,29
+11.01.2022;PKN ORLEN; Wiejska 13, Lidzbark Warmiński;warmińsko-mazurskie;LPG;3,15
+11.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;LPG;3,03
+11.01.2022;PKN ORLEN; Wrocławska 25, Łagiewniki;dolnośląskie;LPG;3,13
+11.01.2022;PKN ORLEN; Kopalniana 6, Polkowice;dolnośląskie;LPG;3,15
+11.01.2022;Shell; Ks. Koziołka 10A, Krapkowice;opolskie;98;5,82
+11.01.2022;Shell; Plebiscytowa 30, Ostróda;warmińsko-mazurskie;98;5,82
+11.01.2022;Shell; Mszczonowska 1, Janki (pod Warszawą);mazowieckie;98;5,77
+11.01.2022;Shell; Aleja Solidarności 6, Tczew;pomorskie;98;5,75
+11.01.2022;Shell; Nadarzyńska 5, Kobyłka;mazowieckie;98;5,81
+11.01.2022;Shell; Lubelska 2, Kraśnik;lubelskie;100;5,75
+11.01.2022;Shell; Wiśniowa 87, Wrocław;dolnośląskie;100;5,75
+11.01.2022;Shell; Świętokrzyska 1, Gdańsk;pomorskie;100;5,75
+11.01.2022;Shell; Kutrowskiego 29 B, Oława;dolnośląskie;100;5,81
+11.01.2022;Shell; Łostowicka 4, Gdańsk;pomorskie;100;5,78
+11.01.2022;Shell; Aleja Solidarności 6, Tczew;pomorskie;LPG;3,11
+11.01.2022;Shell; Łostowicka 4, Gdańsk;pomorskie;LPG;3,24
+11.01.2022;Shell; Warszawska 68, Legionowo;mazowieckie;LPG;3,21
+11.01.2022;BP; Prażmowskiego 9, Nowy Sącz;małopolskie;95;5,75
+11.01.2022;BP; Henryka Sienkiewicza 14, Mielec;podkarpackie;ON;5,79
+11.01.2022;BP; Pułkownika Dąbka 74, Elbląg;warmińsko-mazurskie;LPG;3,18
+11.01.2022;Circle K (Statoil); Jana Kilińskiego 64, Nowy Sącz;małopolskie;LPG;3,18
+11.01.2022;Circle K (Statoil); Dzika 29, Warszawa;mazowieckie;LPG;3,16
+11.01.2022;Circle K (Statoil); Gwarna/ Muzealnej, Legnica;dolnośląskie;95;5,75
+12.01.2022;PKN ORLEN; Krakowska 270, Tarnów;małopolskie;95;5,67
+12.01.2022;PKN ORLEN; Ślężna 129A, Wrocław;dolnośląskie;95;5,64
+12.01.2022;PKN ORLEN; Droga Męczenników Majdanka 16, Lublin;lubelskie;95;5,67
+12.01.2022;PKN ORLEN; Wielkie Przedmieście 1A, Olesno;opolskie;95;5,64
+12.01.2022;PKN ORLEN; Rynkowa 119, Przeźmierowo;wielkopolskie;95;5,74
+12.01.2022;PKN ORLEN; Turawska 1A, Zawada;opolskie;98;5,99
+12.01.2022;PKN ORLEN; Opolska 49, Jełowa;opolskie;98;5,99
+12.01.2022;PKN ORLEN; Warszawska 2, Nowy Dwór Gdański;pomorskie;ON;5,79
+12.01.2022;PKN ORLEN; Wielkie Przedmieście 1A, Olesno;opolskie;ON;5,74
+12.01.2022;PKN ORLEN; Kazimierza Wielkiego 121, Kraków;małopolskie;ON;5,79
+12.01.2022;PKN ORLEN; Opolska 49, Jełowa;opolskie;ON;5,79
+12.01.2022;PKN ORLEN; Lwowska 31, Sandomierz;świętokrzyskie;ON;5,79
+12.01.2022;PKN ORLEN; Ks. Waresiaka 11, Milicz;dolnośląskie;ON+;5,99
+12.01.2022;PKN ORLEN; Opolska 49, Jełowa;opolskie;ON+;5,99
+12.01.2022;PKN ORLEN; Turawska 1A, Zawada;opolskie;ON+;5,99
+12.01.2022;PKN ORLEN; Wrocławska 42, Międzybórz;dolnośląskie;ON+;5,89
+12.01.2022;PKN ORLEN; Zielonogórska 2, Lubin;dolnośląskie;LPG;3,18
+12.01.2022;PKN ORLEN; Droga Męczenników Majdanka 16, Lublin;lubelskie;LPG;3,06
+12.01.2022;PKN ORLEN; Turawska 1A, Zawada;opolskie;LPG;3,14
+12.01.2022;PKN ORLEN; Opolska 49, Jełowa;opolskie;LPG;3,12
+12.01.2022;PKN ORLEN; Chopina 16, Szczecin;zachodniopomorskie;LPG;3,02
+12.01.2022;Shell; Małopanewska 2, Wrocław;dolnośląskie;100;5,73
+12.01.2022;Shell; Ostrobramska 75, Warszawa;mazowieckie;100;5,77
+12.01.2022;Shell; Traktorzystów, Warszawa;mazowieckie;95;5,69
+12.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;ON;5,78
+12.01.2022;BP; DW713 (Warszawska 84), Tomaszów Mazowiecki;łódzkie;95;5,69
+12.01.2022;BP; Chorzowska 32, Bytom;śląskie;95;5,75
+12.01.2022;BP; Raciborska 121, Rybnik;śląskie;98;6,16
+12.01.2022;BP; Legnicka 67, Wrocław;dolnośląskie;ON;5,75
+12.01.2022;BP; Rakoczego 15, Gdańsk;pomorskie;ON;5,84
+12.01.2022;BP; DW713 (Warszawska 84), Tomaszów Mazowiecki;łódzkie;LPG;3,19
+12.01.2022;BP; Tarnogórska 188, Gliwice;śląskie;LPG;3,19
+12.01.2022;BP; DW964, Staniątki;małopolskie;LPG;3,09
+12.01.2022;Circle K (Statoil); Połczyńska 30, Warszawa;mazowieckie;95;5,78
+12.01.2022;Circle K (Statoil); Gręzów , Kotuń;mazowieckie;95;5,67
+12.01.2022;Circle K (Statoil); Bohaterów Warszawy 8, Kielce;świętokrzyskie;95;5,59
+12.01.2022;Circle K (Statoil); Karkonoska 52, Wrocław;dolnośląskie;ON;5,74
+13.01.2022;PKN ORLEN; Esperantystów 14, Świdnica;dolnośląskie;95;5,65
+13.01.2022;PKN ORLEN; Rzgowska 276, Pabianice;łódzkie;95;5,69
+13.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;95;5,75
+13.01.2022;PKN ORLEN; Sobków 139, Brzegi;świętokrzyskie;95;5,69
+13.01.2022;PKN ORLEN; Jarocińska 1, Pleszew;wielkopolskie;95;5,64
+13.01.2022;PKN ORLEN; Ślężna 129A, Wrocław;dolnośląskie;98;5,99
+13.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;98;5,99
+13.01.2022;PKN ORLEN; Ks. Waresiaka 11, Milicz;dolnośląskie;98;5,99
+13.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;ON;5,79
+13.01.2022;PKN ORLEN; Niepodległości 1, Kraśnik;lubelskie;ON;5,79
+13.01.2022;PKN ORLEN; Alojzego Metzgera, Jasło;podkarpackie;ON;5,99
+13.01.2022;PKN ORLEN; Łódzka 83-85, Toruń;kujawsko-pomorskie;ON;5,79
+13.01.2022;PKN ORLEN; Ks. Waresiaka 11, Milicz;dolnośląskie;ON;5,75
+13.01.2022;PKN ORLEN; Chełmińska 173, Grudziądz;kujawsko-pomorskie;ON+;5,99
+13.01.2022;PKN ORLEN; Ks. Waresiaka 11, Milicz;dolnośląskie;ON+;5,99
+13.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;ON+;5,99
+13.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;LPG;3,03
+13.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;LPG;3,19
+13.01.2022;PKN ORLEN; Władysława Łokietka 4, Brzeg;opolskie;LPG;3,09
+13.01.2022;PKN ORLEN; Głęboka 32, Lublin;lubelskie;LPG;3,04
+13.01.2022;PKN ORLEN; Brzeźnicka 53, Radomsko;łódzkie;LPG;2,91
+13.01.2022;Shell; Trakt Lwowski , Garwolin;mazowieckie;ON+;5,79
+13.01.2022;Shell; Brucknera 53-55, Wrocław;dolnośląskie;ON+;5,76
+13.01.2022;Shell; Stefana Batorego 25a, Niepołomice;małopolskie;ON+;5,71
+13.01.2022;Shell; Wrocławska 1A, Września;wielkopolskie;ON+;5,84
+13.01.2022;Shell; Słoneczna 300/302, Lesznowola;mazowieckie;ON+;5,87
+13.01.2022;Shell; DK7 (Warszawska 28 B), Węgrzce;małopolskie;100;6,59
+13.01.2022;Shell; 28 czerwca 1956r. 419, Poznań;wielkopolskie;ON;5,82
+13.01.2022;Shell; Sokratesa 11, Warszawa;mazowieckie;ON;5,79
+13.01.2022;Shell; Powstańców Śląskich, Wrocław;dolnośląskie;ON;5,78
+13.01.2022;Shell; Jana Kasprowicza 6/8, Zgierz;łódzkie;LPG;3,29
+13.01.2022;BP; Wrocławska 118, Bytom;śląskie;95+;5,75
+13.01.2022;BP; Aleja Jana Pawła II 103/10, Częstochowa;śląskie;ON;5,81
+13.01.2022;BP; Lwowska 120, Tarnów;małopolskie;ON;5,79
+13.01.2022;BP; Włocławska 44, Szpetal Górny;kujawsko-pomorskie;ON;5,89
+13.01.2022;BP; Zana 3/11, Łódź;łódzkie;ON;5,74
+13.01.2022;BP; Józefa Piłsudskiego 7, Żywiec;śląskie;ON;5,79
+13.01.2022;BP; Rzgowska 252, Łódź;łódzkie;ON+;5,89
+13.01.2022;BP; Aleja Rydza Śmigłego 19, Łódź;łódzkie;ON+;5,74
+13.01.2022;BP; Warszawska 40b, Rzeszów;podkarpackie;ON+;5,79
+13.01.2022;BP; Wyszyńskiego 3, Olsztyn;warmińsko-mazurskie;LPG;3,21
+13.01.2022;BP; Jana Kozaka 1, Zgorzelec;dolnośląskie;LPG;3,01
+13.01.2022;Circle K (Statoil); Dzika 29, Warszawa;mazowieckie;LPG;3,16
+13.01.2022;Circle K (Statoil); Józefa Piłsudskiego 55, Jaworzno;śląskie;LPG;3,05
+13.01.2022;Circle K (Statoil); Gen. Jarosława Dąbrowskiego 32, Oświęcim;małopolskie;ON;5,69
+13.01.2022;Circle K (Statoil); Wielicka 183, Kraków;małopolskie;ON;5,84
+14.01.2022;PKN ORLEN; 376, Brzezie;małopolskie;95;5,69
+14.01.2022;PKN ORLEN; Lazurowa 40, Warszawa;mazowieckie;95;5,24
+14.01.2022;PKN ORLEN; Warszawska 15, Nasielsk;mazowieckie;95;5,75
+14.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;95;5,75
+14.01.2022;PKN ORLEN; Stanisława Wyspiańskiego 26, Rzeszów;podkarpackie;95;5,75
+14.01.2022;PKN ORLEN; Ozimska 206, Opole;opolskie;98;5,99
+14.01.2022;PKN ORLEN; DK46, Chrząstowice;opolskie;98;5,99
+14.01.2022;PKN ORLEN; Opolska 1, Ozimek;opolskie;98;5,99
+14.01.2022;PKN ORLEN; Oleska, Dobrodzień;opolskie;98;5,99
+14.01.2022;PKN ORLEN; Wielicka 21, Kraków;małopolskie;ON;5,79
+14.01.2022;PKN ORLEN; Trakt Lubelski 63, Warszawa;mazowieckie;ON;5,79
+14.01.2022;PKN ORLEN; Starogardzka 9, Straszyn;pomorskie;ON;5,79
+14.01.2022;PKN ORLEN; Ozimska 206, Opole;opolskie;ON;5,79
+14.01.2022;PKN ORLEN; DK46, Chrząstowice;opolskie;ON;5,79
+14.01.2022;PKN ORLEN; Opolska 1, Ozimek;opolskie;ON+;5,99
+14.01.2022;PKN ORLEN; Oleska, Dobrodzień;opolskie;ON+;5,99
+14.01.2022;PKN ORLEN; DK46, Chrząstowice;opolskie;ON+;5,99
+14.01.2022;PKN ORLEN; Ozimska 206, Opole;opolskie;ON+;5,99
+14.01.2022;PKN ORLEN; Królewiecka 144, Elbląg;warmińsko-mazurskie;ON+;5,99
+14.01.2022;PKN ORLEN; Stanisława Wyspiańskiego 26, Rzeszów;podkarpackie;LPG;2,99
+14.01.2022;PKN ORLEN; Lubelska 46, Rzeszów;podkarpackie;LPG;3,09
+14.01.2022;PKN ORLEN; Marii Curie-Skłodowskiej 95, Toruń;kujawsko-pomorskie;LPG;3,27
+14.01.2022;PKN ORLEN; Ozimska 206, Opole;opolskie;LPG;3,07
+14.01.2022;PKN ORLEN; DK46, Chrząstowice;opolskie;LPG;3,09
+14.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;98;6,17
+14.01.2022;Shell; Ozimska 195, Opole;opolskie;98;6,16
+14.01.2022;Shell; Ozimska 195, Opole;opolskie;ON+;6,28
+14.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;100;6,59
+14.01.2022;Shell; Ozimska 195, Opole;opolskie;100;6,56
+14.01.2022;Shell; Ozimska 195, Opole;opolskie;95;5,67
+14.01.2022;Shell; Ozimska 195, Opole;opolskie;ON;5,79
+14.01.2022;Shell; Krakowska 28, Rzeszów;podkarpackie;ON;5,79
+14.01.2022;Shell; Warszawska 68, Legionowo;mazowieckie;ON;5,84
+14.01.2022;BP; Francuska 40, Katowice;śląskie;95;6,18
+14.01.2022;BP; Aleja Bora-Komorowskiego 4, Kraków;małopolskie;95;5,75
+14.01.2022;BP; Garncarska 8, Dobczyce;małopolskie;95;5,85
+14.01.2022;BP; Grójecka 125A, Warszawa;mazowieckie;LPG;3,18
+14.01.2022;BP; Siedlecka 4, Nowe Iganie;mazowieckie;LPG;3,26
+14.01.2022;BP; Jabłoniowa 51, Gdańsk;pomorskie;LPG;3,19
+14.01.2022;BP; Kościuszki, Proszowice;małopolskie;LPG;3,09
+14.01.2022;BP; Rozdzieñskiego 14, Katowice;śląskie;LPG;3,14
+14.01.2022;Circle K (Statoil); Wilsona 2, Przemyśl;podkarpackie;LPG;3,06
+14.01.2022;Circle K (Statoil); Plac Mostowy 1, Racibórz;śląskie;LPG;2,99
+14.01.2022;Circle K (Statoil); Łaska 3/5, Pabianice;łódzkie;95;5,64
+14.01.2022;Circle K (Statoil); Krakowska 144C, Skarżysko-Kamienna;świętokrzyskie;95;5,72
+14.01.2022;Circle K (Statoil); Źródłowa 14, Kielce;świętokrzyskie;95;5,66
+14.01.2022;Circle K (Statoil); Admirała Józefa Unruga 3, Gdynia;pomorskie;ON;5,88
+14.01.2022;Circle K (Statoil); Karkonoska 52, Wrocław;dolnośląskie;ON;5,74
+15.01.2022;PKN ORLEN; Brzeska 16, Niepołomice;małopolskie;95;5,75
+15.01.2022;PKN ORLEN; Partyzancka 103, Pabianice;łódzkie;95;5,69
+15.01.2022;PKN ORLEN; Płocka 44, Gostynin;mazowieckie;95;5,93
+15.01.2022;PKN ORLEN; Władysława Sikorskiego 35, Olsztyn;warmińsko-mazurskie;95;5,73
+15.01.2022;PKN ORLEN; Zawadzka 40, Łomża;podlaskie;ON;5,79
+15.01.2022;PKN ORLEN; Przejazdowa 5, Pruszków;mazowieckie;ON;5,97
+15.01.2022;PKN ORLEN; Jeremiego Wisniowieckiego 129, Nowy Sącz;małopolskie;ON;5,79
+15.01.2022;PKN ORLEN; Kołobrzeska 28A, Gdańsk;pomorskie;ON;5,69
+15.01.2022;PKN ORLEN; Lubelska 47, Puławy;lubelskie;ON;5,77
+15.01.2022;PKN ORLEN; Aleja Jana Pawła II, Kędzierzyn-Koźle;opolskie;ON+;5,99
+15.01.2022;PKN ORLEN; Podwale 18, Żary;lubuskie;LPG;3,07
+15.01.2022;PKN ORLEN; Aleja 1000-lecia 32, Bolesławiec;dolnośląskie;LPG;3,19
+15.01.2022;PKN ORLEN; Hutnicza 12, Lubin;dolnośląskie;LPG;3,17
+15.01.2022;PKN ORLEN; Kamienna 18, Kraków;małopolskie;LPG;3,00
+15.01.2022;PKN ORLEN; Gwiezdna, Legnica;dolnośląskie;LPG;3,11
+15.01.2022;Shell; Łukasza Drewny 2, Warszawa;mazowieckie;100;6,64
+15.01.2022;Shell; Mangalia , Warszawa;mazowieckie;95;5,75
+15.01.2022;Shell; Okulickiego, Piaseczno;mazowieckie;95;5,69
+15.01.2022;Shell; Kamienna 145, Wrocław;dolnośląskie;ON;5,79
+15.01.2022;Shell; Nizinna 1, Białe Błota;kujawsko-pomorskie;LPG;3,26
+15.01.2022;BP; Lwowska 120, Tarnów;małopolskie;95;5,70
+15.01.2022;BP; DW902 (Drogowa Trasa Średnicowa 51), Chorzów;śląskie;95;5,82
+15.01.2022;BP; Kurlandzka 2, Poznań;wielkopolskie;ON;5,79
+15.01.2022;BP; Jana Pawła II 5, Lubin;dolnośląskie;LPG;3,17
+15.01.2022;BP; DW809 (Bohaterów Września 27), Lublin;lubelskie;LPG;3,16
+15.01.2022;Circle K (Statoil); Ochocza 2, Warszawa;mazowieckie;LPG;3,19
+15.01.2022;Circle K (Statoil); Ochocza 2, Warszawa;mazowieckie;95;5,78
+15.01.2022;Circle K (Statoil); Ochocza 2, Warszawa;mazowieckie;ON;5,82
+15.01.2022;Circle K (Statoil); Ochocza 2, Warszawa;mazowieckie;98;5,97
+15.01.2022;Circle K (Statoil); Ochocza 2, Warszawa;mazowieckie;ON+;6,26
+16.01.2022;PKN ORLEN; Bałtowska, Ostrowiec Świętokrzyski;świętokrzyskie;95;5,65
+16.01.2022;PKN ORLEN; Aleja Wojska Polskiego 62 , Ostrzeszów;wielkopolskie;95;5,69
+16.01.2022;PKN ORLEN; Lubiejewska 63, Ostrów Mazowiecka;mazowieckie;95;5,75
+16.01.2022;PKN ORLEN; Wyzwolenia 16, Siemianowice Śląskie;śląskie;95;5,99
+16.01.2022;PKN ORLEN; Lubelska 47, Puławy;lubelskie;95;5,67
+16.01.2022;PKN ORLEN; DK94 (Bytomska 2), w pobliżu A1, Wieszowa;śląskie;98;5,99
+16.01.2022;PKN ORLEN; Bogumińska 254, Chałupki k/Gorzyc;śląskie;98;5,91
+16.01.2022;PKN ORLEN; Leśna 15, Wronki;wielkopolskie;98;5,99
+16.01.2022;PKN ORLEN; Poznańska 40, Krobia;wielkopolskie;98;5,99
+16.01.2022;PKN ORLEN; Augustynowo, Izbica Kujawska;kujawsko-pomorskie;98;5,99
+16.01.2022;PKN ORLEN; św. Rocha 215, Częstochowa;śląskie;ON;5,79
+16.01.2022;PKN ORLEN; Czarna 1, Zgierz;łódzkie;ON;5,69
+16.01.2022;PKN ORLEN; Szaflarska, Nowy Targ;małopolskie;ON;5,75
+16.01.2022;PKN ORLEN; Księdza Piotra Ściegiennego 125C, Kielce;świętokrzyskie;ON;5,74
+16.01.2022;PKN ORLEN; Tadeusza Kościuszki 16, Brzeziny;łódzkie;ON;5,79
+16.01.2022;PKN ORLEN; Obornicka 38, Suchy Las;wielkopolskie;ON+;5,99
+16.01.2022;PKN ORLEN; Kusocińskiego 4, Świdnik;lubelskie;ON+;5,59
+16.01.2022;PKN ORLEN; Gen. Jana Skrzyneckiego , Dobre;mazowieckie;LPG;3,15
+16.01.2022;PKN ORLEN; Podwale 18, Żary;lubuskie;LPG;3,07
+16.01.2022;PKN ORLEN; Lubelska 47, Puławy;lubelskie;LPG;3,14
+16.01.2022;PKN ORLEN; Westerplatte 31, Pasłęk;warmińsko-mazurskie;LPG;3,16
+16.01.2022;PKN ORLEN; Kusocińskiego 4, Świdnik;lubelskie;LPG;3,18
+16.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;98;6,28
+16.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;98;6,28
+16.01.2022;Shell; Aleja Jana Pawła II 5, Częstochowa;śląskie;ON+;5,75
+16.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;ON+;6,34
+16.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;ON+;6,28
+16.01.2022;Shell; Pułtuska 65, Ciechanów;mazowieckie;100;5,69
+16.01.2022;Shell; Aleja Wojska Polskiego 22, Chorzów;śląskie;100;6,69
+16.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;100;6,69
+16.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;100;6,62
+16.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;95;5,79
+16.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;95;5,79
+16.01.2022;Shell; Łabiszyńska 27, Warszawa;mazowieckie;ON;6,29
+16.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;ON;5,84
+16.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;ON;5,79
+16.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;LPG;3,09
+16.01.2022;Shell; Pułtuska 65, Ciechanów;mazowieckie;LPG;2,99
+16.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;LPG;3,09
+16.01.2022;BP; Wojska Polskiego 119, Bełchatów;łódzkie;95;5,63
+16.01.2022;BP; 23 Sierpnia 1, Dębica;podkarpackie;95;6,51
+16.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;95;5,82
+16.01.2022;BP; Świętojańska 4, Łódź;łódzkie;95;5,81
+16.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;98;6,18
+16.01.2022;BP; Wolności 76, Zabrze;śląskie;ON;5,91
+16.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;ON;5,82
+16.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;ON+;6,12
+16.01.2022;BP; Okrzei 89, Włocławek;kujawsko-pomorskie;LPG;3,14
+16.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;LPG;3,09
+16.01.2022;BP; Kasprowicza 1, Pruszcz Gdański;pomorskie;LPG;3,19
+16.01.2022;Circle K (Statoil); Rzgowska 211, Łódź;łódzkie;LPG;3,03
+16.01.2022;Circle K (Statoil); Rzgowska 211, Łódź;łódzkie;95;5,84
+16.01.2022;Circle K (Statoil); Hutnicza 27, Bytom;śląskie;95;5,78
+16.01.2022;Circle K (Statoil); Katowicka 1, Żory;śląskie;95;5,53
+16.01.2022;Circle K (Statoil); Pstrowskiego 10, Olsztyn;warmińsko-mazurskie;ON;5,81
+17.01.2022;PKN ORLEN; Brzeska 42, Bochnia;małopolskie;95;5,51
+17.01.2022;PKN ORLEN; Gajków ul. Wrocławska 2,, Kamieniec Wrocławski;dolnośląskie;95;5,80
+17.01.2022;PKN ORLEN; Świdnicka 60, Świebodzice;dolnośląskie;95;5,84
+17.01.2022;PKN ORLEN; Leszczyńska 20a, Śmigiel;wielkopolskie;95;5,73
+17.01.2022;PKN ORLEN; Wersalska 1, Warszawa;mazowieckie;95;5,75
+17.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;98;5,99
+17.01.2022;PKN ORLEN; Rawicka, Miejska Górka;wielkopolskie;ON;5,68
+17.01.2022;PKN ORLEN; Mostowa 1A, Kwidzyn;pomorskie;ON;5,76
+17.01.2022;PKN ORLEN; Chopina 16, Szczecin;zachodniopomorskie;ON;5,82
+17.01.2022;PKN ORLEN; Chwaliszewska, Krotoszyn;wielkopolskie;ON;5,70
+17.01.2022;PKN ORLEN; Dąbrowskiego 313, Poznań;wielkopolskie;ON;5,84
+17.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;ON+;5,97
+17.01.2022;PKN ORLEN; Stróżyńskiego 21A, Poznań;wielkopolskie;ON+;6,04
+17.01.2022;PKN ORLEN; Józefa Piłsudskiego 115, Modliborzyce;lubelskie;LPG;2,96
+17.01.2022;PKN ORLEN; Brzeska 42, Bochnia;małopolskie;LPG;2,95
+17.01.2022;PKN ORLEN; Wrocławska 31, Ząbkowice Śląskie;dolnośląskie;LPG;3,09
+17.01.2022;PKN ORLEN; Mazowiecka 78, Książenice;mazowieckie;LPG;3,15
+17.01.2022;PKN ORLEN; Grabiszyńska 187, Wrocław;dolnośląskie;LPG;3,06
+17.01.2022;Shell; Kresowa 2, Sosnowiec;śląskie;ON+;5,47
+17.01.2022;Shell; Aleja Wojska Polskiego 4, Pruszków;mazowieckie;100;5,79
+17.01.2022;Shell; Katowicka 45, Mysłowice;śląskie;95;5,76
+17.01.2022;Shell; Głębocka 15, Warszawa;mazowieckie;95;5,77
+17.01.2022;Shell; Małopanewska 2, Wrocław;dolnośląskie;LPG;3,19
+17.01.2022;Shell; Szczecińska 81, Stargard Szczeciński;zachodniopomorskie;LPG;3,15
+17.01.2022;Shell; Płochocińska 201, Nieporęt;mazowieckie;LPG;3,19
+17.01.2022;BP; Grochowska 149/151, Warszawa;mazowieckie;95;5,78
+17.01.2022;BP; DK71 (Zgierska 110), Konstantynów Łódzki;łódzkie;95;5,89
+17.01.2022;BP; Rybnicka 31, Gliwice;śląskie;95+;5,77
+17.01.2022;BP; DW786 (aleja Jerzego Szajnowicza-Iwanowa 17), Kielce;świętokrzyskie;ON;5,29
+17.01.2022;BP; Aleja Legionów 155, Łomża;podlaskie;LPG;3,05
+17.01.2022;BP; Tarnogórska 188, Gliwice;śląskie;LPG;3,19
+17.01.2022;Circle K (Statoil); Marcina Kasprzaka 31, Ciechanów;mazowieckie;LPG;3,09
+17.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;LPG;3,08
+17.01.2022;Circle K (Statoil); Aleja Włókniarzy 202, Łódź;łódzkie;95;5,78
+17.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;95;5,75
+17.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;ON;5,79
+17.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;98;6,05
+17.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;ON+;6,19
+18.01.2022;PKN ORLEN; Łaska 41, Szczerców;łódzkie;95;5,72
+18.01.2022;PKN ORLEN; Władysława Reymonta 40, Warszawa;mazowieckie;95;5,79
+18.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;95;5,80
+18.01.2022;PKN ORLEN; Ignacego Mościckiego 166 , Tarnów;małopolskie;95;5,69
+18.01.2022;PKN ORLEN; Powązkowska 43, Warszawa;mazowieckie;95;5,80
+18.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;98;6,04
+18.01.2022;PKN ORLEN; 852, Wierzchosławice;małopolskie;98;5,94
+18.01.2022;PKN ORLEN; Zgorzelecka 24, Bolesławiec;dolnośląskie;98;5,99
+18.01.2022;PKN ORLEN; Ślężna 129A, Wrocław;dolnośląskie;98;5,98
+18.01.2022;PKN ORLEN; Bolesława Krzywoustego 48, Poznań;wielkopolskie;98;6,04
+18.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;ON;5,84
+18.01.2022;PKN ORLEN; 17, Przeszkoda;mazowieckie;ON;5,90
+18.01.2022;PKN ORLEN; Okrzei 125 , Krasnystaw;lubelskie;ON;5,89
+18.01.2022;PKN ORLEN; Pruchnicka 5, Jarosław;podkarpackie;ON;5,79
+18.01.2022;PKN ORLEN; Swojczycka 45, Wrocław;dolnośląskie;ON;5,84
+18.01.2022;PKN ORLEN; Muchoborska 9, Wrocław;dolnośląskie;ON+;6,04
+18.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;ON+;6,04
+18.01.2022;PKN ORLEN; Kawaleryjska , Białystok;podlaskie;ON+;5,98
+18.01.2022;PKN ORLEN; Bolesława Krzywoustego 48, Poznań;wielkopolskie;ON+;6,04
+18.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;ON+;6,02
+18.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;LPG;3,18
+18.01.2022;PKN ORLEN; Gdańska 240, Bydgoszcz;kujawsko-pomorskie;LPG;3,13
+18.01.2022;PKN ORLEN; Niedrzwica Kościelna, Niedrzwica Duża;lubelskie;LPG;3,19
+18.01.2022;PKN ORLEN; Bolesława Krzywoustego 48, Poznań;wielkopolskie;LPG;3,08
+18.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;LPG;3,11
+18.01.2022;Shell; Trakt Św. Wojciecha 223, Gdańsk;pomorskie;98;5,85
+18.01.2022;Shell; DK7 (Warszawska 28 B), Węgrzce;małopolskie;98;5,75
+18.01.2022;Shell; Nadarzyńska 5, Kobyłka;mazowieckie;98;5,87
+18.01.2022;Shell; Arcybiskupa Antoniego Baraniaka 100, Poznań;wielkopolskie;98;5,74
+18.01.2022;Shell; Ostrobramska 75, Warszawa;mazowieckie;100;5,79
+18.01.2022;Shell; Świętokrzyska 1, Gdańsk;pomorskie;100;5,79
+18.01.2022;Shell; Aleja Pokoju 65, Kraków;małopolskie;100;5,76
+18.01.2022;Shell; Witosa 20, Kraków;małopolskie;100;5,74
+18.01.2022;Shell; Walentego Stanczukowskiego, Kalisz;wielkopolskie;100;5,79
+18.01.2022;Shell; Sczanieckiej /1 Maja, Szczecin;zachodniopomorskie;95;5,71
+18.01.2022;BP; Krakowska 6/7, Wrocław;dolnośląskie;95;5,80
+18.01.2022;BP; Krakowska 25, Andrychów;małopolskie;95;5,85
+18.01.2022;BP; Katowicka 1a, Dąbrowa Górnicza;śląskie;95;5,76
+18.01.2022;BP; Płochocińska 93, Warszawa;mazowieckie;95+;5,79
+18.01.2022;BP; Józefa Piłsudskiego 2j, Dąbrowa Górnicza;śląskie;95+;5,81
+18.01.2022;BP; Aleja Wojska Polskiego 184, Szczecin;zachodniopomorskie;ON;5,93
+18.01.2022;Circle K (Statoil); 55A, Gręblin;pomorskie;LPG;2,97
+18.01.2022;Circle K (Statoil); Pstrowskiego 10, Olsztyn;warmińsko-mazurskie;95;5,76
+18.01.2022;Circle K (Statoil); Aleja Wojska Polskiego 20 D, Bydgoszcz;kujawsko-pomorskie;95;5,75
+18.01.2022;Circle K (Statoil); Solskiego 20, Bydgoszcz;kujawsko-pomorskie;95;5,65
+18.01.2022;Circle K (Statoil); Warszawska 182, Kielce;świętokrzyskie;ON;6,19
+18.01.2022;Circle K (Statoil); Leonharda 9, Olsztyn;warmińsko-mazurskie;ON;5,86
+18.01.2022;Circle K (Statoil); Lublańska 16A, Kraków;małopolskie;ON;5,80
+18.01.2022;Circle K (Statoil); Aleja Armii Krajowej 22, Piotrków Trybunalski;łódzkie;ON+;6,19
+19.01.2022;PKN ORLEN; Śmigielska 62, Kościan;wielkopolskie;95;5,64
+19.01.2022;PKN ORLEN; Obornicka 38, Suchy Las;wielkopolskie;95;5,80
+19.01.2022;PKN ORLEN; DK46, Chrząstowice;opolskie;95;5,71
+19.01.2022;PKN ORLEN; Erazma Jerzmanowskiego 39, Kraków;małopolskie;95;5,67
+19.01.2022;PKN ORLEN; os.Kolorowe 10 a , Kraków;małopolskie;95;5,62
+19.01.2022;PKN ORLEN; Obornicka 38, Suchy Las;wielkopolskie;98;6,04
+19.01.2022;PKN ORLEN; Przybyszewskiego 327, Łódź;łódzkie;98;5,97
+19.01.2022;PKN ORLEN; Chemików 7, Płock;mazowieckie;ON;4,54
+19.01.2022;PKN ORLEN; Obornicka 38, Suchy Las;wielkopolskie;ON;5,84
+19.01.2022;PKN ORLEN; 121, Szalejów Dolny;dolnośląskie;ON;5,82
+19.01.2022;PKN ORLEN; Obornicka 38, Suchy Las;wielkopolskie;ON+;6,04
+19.01.2022;PKN ORLEN; 17, Przeszkoda;mazowieckie;ON+;6,10
+19.01.2022;PKN ORLEN; Lubelska, Janów Lubelski;lubelskie;LPG;2,89
+19.01.2022;PKN ORLEN; Wrotkowska 4, Lublin;lubelskie;LPG;3,12
+19.01.2022;PKN ORLEN; Obornicka 38, Suchy Las;wielkopolskie;LPG;3,09
+19.01.2022;PKN ORLEN; Lutomierska 143, Łódź;łódzkie;LPG;3,10
+19.01.2022;PKN ORLEN; Kazimierza Wielkiego 121, Kraków;małopolskie;LPG;3,05
+19.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;98;6,29
+19.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;98;6,28
+19.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;98;6,18
+19.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;ON+;6,29
+19.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;ON+;6,33
+19.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;100;6,69
+19.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;100;6,69
+19.01.2022;Shell; Gen. Jarosława Dąbrowskiego 133, Łódź;łódzkie;100;5,99
+19.01.2022;Shell; Poznańska 377, Płochocin;mazowieckie;95;5,79
+19.01.2022;Shell; Terebelska 75, Biała Podlaska;lubelskie;95;5,71
+19.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;95;5,79
+19.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;95;5,82
+19.01.2022;Shell; DK46 (Główna 114), Częstochowa;śląskie;95;5,78
+19.01.2022;Shell; Pszczyńska 24, Mikołów;śląskie;ON;5,84
+19.01.2022;Shell; Kielecka 82, Radom;mazowieckie;ON;5,83
+19.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;ON;5,84
+19.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;ON;5,82
+19.01.2022;Shell; Poznańska 377, Płochocin;mazowieckie;LPG;3,17
+19.01.2022;Shell; Obornicka 337, Poznań;wielkopolskie;LPG;3,18
+19.01.2022;Shell; Lechicka 2, Poznań;wielkopolskie;LPG;3,09
+19.01.2022;BP; Grabiszyńska 266, Wrocław;dolnośląskie;95;5,79
+19.01.2022;BP; Przybyszewskiego 39A, Poznań;wielkopolskie;95;5,87
+19.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;95;5,82
+19.01.2022;BP; Wojska Polskiego 127, Pruszków;mazowieckie;95;5,75
+19.01.2022;BP; DW637 (Aleja Solidarności 10), Węgrów;mazowieckie;95;5,79
+19.01.2022;BP; Przybyszewskiego 39A, Poznań;wielkopolskie;98;6,23
+19.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;98;6,18
+19.01.2022;BP; Przybyszewskiego 39A, Poznań;wielkopolskie;ON;5,89
+19.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;ON;5,84
+19.01.2022;BP; Aleja Jana Pawła II 36, Łódź;łódzkie;ON;5,79
+19.01.2022;BP; Przybyszewskiego 39A, Poznań;wielkopolskie;ON+;6,19
+19.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;ON+;6,14
+19.01.2022;BP; Wojska Polskiego 17, Jaworzno;śląskie;ON+;5,10
+19.01.2022;BP; Przybyszewskiego 39A, Poznań;wielkopolskie;LPG;3,09
+19.01.2022;BP; Głogowska 15, Ostrów Wielkopolski;wielkopolskie;LPG;3,11
+19.01.2022;BP; Rondo Obornickie, Poznań;wielkopolskie;LPG;3,09
+19.01.2022;BP; Wojska Polskiego 127, Pruszków;mazowieckie;LPG;3,19
+19.01.2022;BP; DW637 (Aleja Solidarności 10), Węgrów;mazowieckie;LPG;3,18
+19.01.2022;Circle K (Statoil); Powstańców Śląskich 90, Warszawa;mazowieckie;95;6,10
+19.01.2022;Circle K (Statoil); Batorego 29, Chorzów;śląskie;ON;5,89
+19.01.2022;Circle K (Statoil); Aleja Zwycięstwa 132, Gdynia;pomorskie;ON;5,86
+20.01.2022;PKN ORLEN; Warszawska 110/112, Tomaszów Mazowiecki;łódzkie;95;5,69
+20.01.2022;PKN ORLEN; Piaskowa 1, Racibórz;śląskie;95;5,69
+20.01.2022;PKN ORLEN; 17, Przeszkoda;mazowieckie;95;5,89
+20.01.2022;PKN ORLEN; Konstantynowska 17, Aleksandrów Łódzki;łódzkie;95;5,80
+20.01.2022;PKN ORLEN; Filomatów/Ostrobramska 6, Warszawa;mazowieckie;95;5,77
+20.01.2022;PKN ORLEN; Katowicka 7, Ustroń;śląskie;98;6,09
+20.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;98;6,04
+20.01.2022;PKN ORLEN; Kłodzka 5, Polanica-Zdrój;dolnośląskie;ON;5,87
+20.01.2022;PKN ORLEN; Poznańska 76, Ostrów Wielkopolski;wielkopolskie;ON;5,88
+20.01.2022;PKN ORLEN; Aleja Wojska Polskiego 33A, Olsztyn;warmińsko-mazurskie;ON;5,84
+20.01.2022;PKN ORLEN; Mickiewicza 1, Kańczuga;podkarpackie;ON;5,84
+20.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;ON;5,82
+20.01.2022;PKN ORLEN; Trakt Świętego Wojciecha 43/45, Gdańsk;pomorskie;ON+;6,09
+20.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;ON+;6,02
+20.01.2022;PKN ORLEN; Czarna 1, Zgierz;łódzkie;ON+;6,04
+20.01.2022;PKN ORLEN; 1-go Maja , Ustrzyki Dolne;podkarpackie;LPG;3,11
+20.01.2022;PKN ORLEN; Powstańców Śląskich 1a, Oświęcim;małopolskie;LPG;3,08
+20.01.2022;PKN ORLEN; Poznańska 51, Łowicz;łódzkie;LPG;3,02
+20.01.2022;PKN ORLEN; Kościelna 9, Łyszkowice;łódzkie;LPG;3,08
+20.01.2022;PKN ORLEN; Sandomierska 18B, Nisko;podkarpackie;LPG;2,99
+20.01.2022;Shell; Krakowska 27/31, Bytom;śląskie;ON+;5,87
+20.01.2022;Shell; Nowodąbrowska 139, Tarnów;małopolskie;ON+;5,89
+20.01.2022;Shell; Beskidzka 101, Tychy;śląskie;ON+;5,85
+20.01.2022;Shell; Zgierska 255, Łódź;łódzkie;ON+;5,84
+20.01.2022;Shell; Strzelców Bytomskich 96, Bytom;śląskie;ON+;5,83
+20.01.2022;Shell; Zagórska, Tarnowskie Góry;śląskie;100;6,24
+20.01.2022;Shell; Jagiellońska 78, Warszawa;mazowieckie;95;5,75
+20.01.2022;Shell; Gostyńska 1, Kościan;wielkopolskie;ON;5,84
+20.01.2022;Shell; Kutrowskiego 29 B, Oława;dolnośląskie;ON;5,87
+20.01.2022;Shell; Aleja Pokoju 65, Kraków;małopolskie;ON;5,84
+20.01.2022;BP; Wiaderno 389, Tomaszów Mazowiecki;łódzkie;95;5,76
+20.01.2022;BP; Malborska 1, Kraków;małopolskie;ON;5,87
+20.01.2022;BP; Jarosława Dąbrowskiego 18, Gliwice;śląskie;ON;5,90
+20.01.2022;BP; Aleja Górnośląska 55, Katowice;śląskie;ON;5,87
+20.01.2022;BP; Brzeska 14, Bochnia;małopolskie;ON;5,77
+20.01.2022;BP; Czechosłowacka 102, Poznań;wielkopolskie;ON;5,89
+20.01.2022;BP; Swobodna 60, Wrocław;dolnośląskie;ON+;5,86
+20.01.2022;BP; Hugona Kołłątaja 105, Będzin;śląskie;LPG;3,14
+20.01.2022;Circle K (Statoil); Józefa Piłsudskiego 61, Sosnowiec;śląskie;LPG;3,04
+20.01.2022;Circle K (Statoil); Józefa Piłsudskiego 55, Jaworzno;śląskie;95;5,76
+20.01.2022;Circle K (Statoil); Jana Pawła II 15, Lublin;lubelskie;ON;5,86
+20.01.2022;Circle K (Statoil); Aleja Rodowicza 6, Warszawa;mazowieckie;ON;5,74
+21.01.2022;PKN ORLEN; Dąbrowskiego 313, Poznań;wielkopolskie;95;5,85
+21.01.2022;PKN ORLEN; Spokojna 22, Tarnów;małopolskie;95;5,84
+21.01.2022;PKN ORLEN; Warszawska 2, Gołdap;warmińsko-mazurskie;95;5,85
+21.01.2022;PKN ORLEN; Poznańska 32, Piła;wielkopolskie;95;5,85
+21.01.2022;PKN ORLEN; Świdnicka 60, Świebodzice;dolnośląskie;95;5,85
+21.01.2022;PKN ORLEN; Fabryczna 21, Bydgoszcz;kujawsko-pomorskie;98;6,09
+21.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;98;6,09
+21.01.2022;PKN ORLEN; Lazurowa 40, Warszawa;mazowieckie;98;6,03
+21.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;98;6,09
+21.01.2022;PKN ORLEN; Wielicka 21, Kraków;małopolskie;ON;5,89
+21.01.2022;PKN ORLEN; Gdańska 11, Więcbork;kujawsko-pomorskie;ON;5,87
+21.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;ON;5,89
+21.01.2022;PKN ORLEN; Sulejowska 134, Piotrków Trybunalski;łódzkie;ON;5,85
+21.01.2022;PKN ORLEN; Lubawska 16, Iława;warmińsko-mazurskie;ON;6,09
+21.01.2022;PKN ORLEN; Aleja Solidarności 100, Warszawa;mazowieckie;ON+;6,09
+21.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;ON+;6,09
+21.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;ON+;6,07
+21.01.2022;PKN ORLEN; Morska 495, Gdynia;pomorskie;LPG;3,06
+21.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;LPG;3,08
+21.01.2022;PKN ORLEN; Wiejska 1, Oława;dolnośląskie;LPG;3,20
+21.01.2022;PKN ORLEN; Gdańska 66, Chojnice;pomorskie;LPG;3,18
+21.01.2022;PKN ORLEN; Szosowa 1, Dąbrowa Górnicza;śląskie;LPG;3,09
+21.01.2022;Shell; Ostrobramska 75, Warszawa;mazowieckie;ON+;5,89
+21.01.2022;Shell; Rybacka 21, Lubań;dolnośląskie;100;5,85
+21.01.2022;Shell; Aleja Krakowska 15, Warszawa;mazowieckie;100;5,75
+21.01.2022;Shell; Gdańska 23, Polkowice;dolnośląskie;100;5,79
+21.01.2022;Shell; Gen. Władysława Sikorskiego 21, Tarnobrzeg;podkarpackie;95;5,60
+21.01.2022;Shell; Bułgarska 119, Poznań;wielkopolskie;95;5,79
+21.01.2022;Shell; Poznańska 274/15, Bolechowo;wielkopolskie;95;5,72
+21.01.2022;Shell; Mińska 41, Wrocław;dolnośląskie;ON;5,80
+21.01.2022;Shell; Hallera 2, Grudziądz;kujawsko-pomorskie;ON;5,84
+21.01.2022;Shell; Stefana Batorego 25a, Niepołomice;małopolskie;ON;5,77
+21.01.2022;Shell; Beskidzka, Tychy;śląskie;LPG;3,05
+21.01.2022;Shell; Mirowska, Kraków;małopolskie;LPG;3,34
+21.01.2022;BP; Człuchowska , Chojnice;pomorskie;95;5,90
+21.01.2022;BP; Pstrowskiego 3, Olsztyn;warmińsko-mazurskie;95;5,85
+21.01.2022;BP; Kasprowicza 1, Pruszcz Gdański;pomorskie;95;5,94
+21.01.2022;BP; Człuchowska , Chojnice;pomorskie;98;6,26
+21.01.2022;BP; Człuchowska , Chojnice;pomorskie;ON;5,93
+21.01.2022;BP; Suwalska 40, Ełk;warmińsko-mazurskie;ON;6,18
+21.01.2022;BP; Poznańska 126A, Rokietnica;wielkopolskie;ON;5,93
+21.01.2022;BP; Człuchowska , Chojnice;pomorskie;ON+;6,23
+21.01.2022;BP; Człuchowska , Chojnice;pomorskie;LPG;3,18
+21.01.2022;BP; Jabłoniowa 51, Gdańsk;pomorskie;LPG;3,19
+21.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;LPG;3,08
+21.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;95;5,80
+21.01.2022;Circle K (Statoil); Józefa Piłsudskiego 39A, Mława;mazowieckie;95;5,59
+21.01.2022;Circle K (Statoil); Osiedle Dywizjonu 303 21a, Kraków;małopolskie;ON;5,47
+21.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;ON;5,89
+21.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;98;6,10
+21.01.2022;Circle K (Statoil); Józefa Piłsudskiego 110, Poznań;wielkopolskie;ON+;6,29
+22.01.2022;PKN ORLEN; Struga 102, Radom;mazowieckie;95;5,67
+22.01.2022;PKN ORLEN; Gliwicka 196, Rybnik;śląskie;95;5,83
+22.01.2022;PKN ORLEN; Warszawska 17, Radom;mazowieckie;95;5,81
+22.01.2022;PKN ORLEN; Jamesa Gordona Bennetta 2A, Warszawa;mazowieckie;95;5,85
+22.01.2022;PKN ORLEN; Wawelska 3B, Warszawa;mazowieckie;95;5,85
+22.01.2022;PKN ORLEN; Mogilska 122, Kraków;małopolskie;ON;5,89
+22.01.2022;PKN ORLEN; Chwaliszewska, Krotoszyn;wielkopolskie;ON;6,09
+22.01.2022;PKN ORLEN; Szosa Kisielińska , Zielona Góra;lubuskie;ON;5,87
+22.01.2022;PKN ORLEN; Tadeusza Kościuszki 59, Krzeszowice;małopolskie;ON;5,89
+22.01.2022;PKN ORLEN; Warszawska 19, Choszczówka Stojecka;mazowieckie;ON;6,09
+22.01.2022;PKN ORLEN; Generała Józefa Bema 13, Węgorzewo;warmińsko-mazurskie;ON+;5,99
+22.01.2022;PKN ORLEN; Wrocławska 25, Łagiewniki;dolnośląskie;LPG;3,13
+22.01.2022;PKN ORLEN; Lotników Polskich 60, Świdnik;lubelskie;LPG;2,96
+22.01.2022;PKN ORLEN; Bohaterów Katynia 147, Częstochowa;śląskie;LPG;2,99
+22.01.2022;PKN ORLEN; Kuziennicza 2, Jawor;dolnośląskie;LPG;3,14
+22.01.2022;PKN ORLEN; Szosa Kotomierska 11, Koronowo;kujawsko-pomorskie;LPG;3,13
+22.01.2022;Shell; Wojska Polskiego 2E, Jaworzno;śląskie;ON+;5,85
+22.01.2022;Shell; Puławska 437, Warszawa;mazowieckie;100;6,69
+22.01.2022;Shell; Szczecińska 58B, Słupsk;pomorskie;100;5,78
+22.01.2022;Shell; Krakowska 70-80, Wrocław;dolnośląskie;95;5,77
+22.01.2022;Shell; Jana Kasprowicza 6/8, Zgierz;łódzkie;95;5,89
+22.01.2022;Shell; Sokratesa 11, Warszawa;mazowieckie;ON;5,79
+22.01.2022;Shell; Jana Pawła II , Zamość;lubelskie;ON;5,89
+22.01.2022;Shell; Jana Kasprowicza 6/8, Zgierz;łódzkie;LPG;3,27
+22.01.2022;BP; Kamieńskiego 57, Kraków;małopolskie;95;5,90
+22.01.2022;BP; Tadeusza Kosciuszki 189, Katowice;śląskie;95;5,91
+22.01.2022;BP; Fieldorfa-Nila 41A, Warszawa;mazowieckie;95;5,90
+22.01.2022;BP; Krakowska 150, Skarżysko-Kamienna;świętokrzyskie;95;5,79
+22.01.2022;BP; Na Czekaj 13, Bibice;małopolskie;95;5,75
+22.01.2022;BP; A2 (MOP Sołeczno), Gozdowo;wielkopolskie;ON;6,03
+22.01.2022;BP; Warszawska 61, Płońsk;mazowieckie;LPG;3,22
+22.01.2022;BP; Na Czekaj 13, Bibice;małopolskie;LPG;3,16
+22.01.2022;Circle K (Statoil); Marcina Kasprzaka 31, Ciechanów;mazowieckie;LPG;2,97
+22.01.2022;Circle K (Statoil); Wilsona 2, Przemyśl;podkarpackie;LPG;3,02
+22.01.2022;Circle K (Statoil); Tysiąclecia Państwa Polskiego 8C, Białystok;podlaskie;LPG;3,05
+22.01.2022;Circle K (Statoil); Marcina Kasprzaka 31, Ciechanów;mazowieckie;95;5,69
+22.01.2022;Circle K (Statoil); Jana Pawła II 56, Białystok;podlaskie;95;5,73
+22.01.2022;Circle K (Statoil); Puławska 427, Warszawa;mazowieckie;95;5,80
+22.01.2022;Circle K (Statoil); Admirała Józefa Unruga 3, Gdynia;pomorskie;ON;5,87
+23.01.2022;PKN ORLEN; Rybitwy 114, Rybitwy;kujawsko-pomorskie;95;5,80
+23.01.2022;PKN ORLEN; Krakowska 86, Libiąż;małopolskie;95;5,94
+23.01.2022;PKN ORLEN; Legionów 49, Kalisz;wielkopolskie;95;6,09
+23.01.2022;PKN ORLEN; DW786 (Aleja Jerzego Szajnowicza-Iwanowa 22), Kielce;świętokrzyskie;95;5,85
+23.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;95;5,79
+23.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;98;6,09
+23.01.2022;PKN ORLEN; Poznańska 40, Krobia;wielkopolskie;98;6,09
+23.01.2022;PKN ORLEN; DK19, Zalesie;lubelskie;ON;5,89
+23.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;ON;5,87
+23.01.2022;PKN ORLEN; Jurajska 164, Zawiercie;śląskie;ON;6,03
+23.01.2022;PKN ORLEN; Oleska, Dobrodzień;opolskie;ON;5,89
+23.01.2022;PKN ORLEN; Lubelska 46, Rzeszów;podkarpackie;ON;6,09
+23.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;ON+;6,07
+23.01.2022;PKN ORLEN; Warszawska 42, Różan;mazowieckie;LPG;2,99
+23.01.2022;PKN ORLEN; Toszecka 8, Gliwice;śląskie;LPG;2,99
+23.01.2022;PKN ORLEN; Podwale 18, Żary;lubuskie;LPG;3,06
+23.01.2022;PKN ORLEN; Gwiezdna, Legnica;dolnośląskie;LPG;3,11
+23.01.2022;PKN ORLEN; Morska 495, Gdynia;pomorskie;LPG;3,18
+23.01.2022;Shell; Stanisława Stojałowskiego 1, Kraków;małopolskie;100;5,84
+23.01.2022;Shell; Lazurowa 73, Warszawa;mazowieckie;ON;5,88
+23.01.2022;Shell; Stanisława Stojałowskiego 1, Kraków;małopolskie;LPG;3,02
+23.01.2022;Shell; Jana Kasprowicza 6/8, Zgierz;łódzkie;LPG;3,29
+23.01.2022;BP; Łomna Las 17, Czosnów;mazowieckie;95;5,96
+23.01.2022;BP; Wojska Polskiego 17, Jaworzno;śląskie;95;6,24
+23.01.2022;BP; Lwowska 120, Tarnów;małopolskie;ON;5,93
+23.01.2022;BP; Wrocławska 118, Bytom;śląskie;LPG;3,09
+23.01.2022;BP; Poznańska 100, Inowrocław;kujawsko-pomorskie;LPG;2,99
+23.01.2022;Circle K (Statoil); Jana Kilińskiego 64, Nowy Sącz;małopolskie;LPG;3,16
+23.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;LPG;3,60
+23.01.2022;Circle K (Statoil); Jana Pawła II 15, Lublin;lubelskie;95;5,71
+23.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;95;5,79
+23.01.2022;Circle K (Statoil); Starogardzka 99, Straszyn;pomorskie;ON;5,87
+23.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;ON;5,89
+23.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;98;6,29
+23.01.2022;Circle K (Statoil); Szosa Lubelska 36, Otwock;mazowieckie;ON+;6,27
+24.01.2022;PKN ORLEN; Pszczyńska 52, Gliwice;śląskie;95;5,81
+24.01.2022;PKN ORLEN; Krakowska 270, Tarnów;małopolskie;95;5,79
+24.01.2022;PKN ORLEN; Aleja Niepodległości 206, Warszawa;mazowieckie;95;5,85
+24.01.2022;PKN ORLEN; Wojska Polskiego 8, Świebodzin;lubuskie;95;5,85
+24.01.2022;PKN ORLEN; Słoneczna 21, Żernica;śląskie;95;5,74
+24.01.2022;PKN ORLEN; Wojska Polskiego 8, Świebodzin;lubuskie;98;6,09
+24.01.2022;PKN ORLEN; Wiejska 1, Oława;dolnośląskie;ON;5,87
+24.01.2022;PKN ORLEN; Aleje Marszałka J.Piłsudskiego 6, Leszno;wielkopolskie;ON;5,88
+24.01.2022;PKN ORLEN; Aleja Murckowska 5, Katowice;śląskie;ON;5,93
+24.01.2022;PKN ORLEN; Kołłątaja 61, Otwock;mazowieckie;ON;5,89
+24.01.2022;PKN ORLEN; Opolska 59, Zawadzkie;opolskie;ON;5,81
+24.01.2022;PKN ORLEN; Katowicka 77, Mysłowice;śląskie;ON+;6,09
+24.01.2022;PKN ORLEN; Wojska Polskiego 8, Świebodzin;lubuskie;ON+;6,09
+24.01.2022;PKN ORLEN; Tadeusza Kościuszki 56, Kutno;łódzkie;LPG;3,13
+24.01.2022;PKN ORLEN; Armii Krajowej, Zgorzelec;dolnośląskie;LPG;3,05
+24.01.2022;PKN ORLEN; Kawaleryjska , Białystok;podlaskie;LPG;2,97
+24.01.2022;PKN ORLEN; Wojska Polskiego 8, Świebodzin;lubuskie;LPG;3,24
+24.01.2022;PKN ORLEN; Fabryczna 21, Bydgoszcz;kujawsko-pomorskie;LPG;3,13
+24.01.2022;Shell; Wiśniowa 87, Wrocław;dolnośląskie;100;5,99
+24.01.2022;Shell; Wrocławska 1A, Września;wielkopolskie;ON;5,89
+24.01.2022;Shell; Rzeczypospolitej 8, Gdańsk;pomorskie;LPG;3,24
+24.01.2022;BP; Kapelanka 2, Kraków;małopolskie;95;5,85
+24.01.2022;BP; Krakowska 6/7, Wrocław;dolnośląskie;95;5,87
+24.01.2022;BP; Kelles Krauza 1B, Radom;mazowieckie;95;5,89
+24.01.2022;BP; Kopernika 38, Białystok;podlaskie;95;5,87
+24.01.2022;BP; Rzgowska 169/171, Łódź;łódzkie;95;5,87
+24.01.2022;BP; Dusznicka 14, Kłodzko;dolnośląskie;ON;5,95
+24.01.2022;BP; Wojska Polskiego 17, Jaworzno;śląskie;ON+;5,30
+24.01.2022;BP; Kopernika 38, Białystok;podlaskie;LPG;3,05
+24.01.2022;BP; Kościuszki, Proszowice;małopolskie;LPG;3,09
+24.01.2022;Circle K (Statoil); Wojska Polskiego 62-64, Aleksandrów Łódzki;łódzkie;LPG;3,02
+24.01.2022;Circle K (Statoil); Połczyńska 30, Warszawa;mazowieckie;95;5,87
+24.01.2022;Circle K (Statoil); Aleja Rodowicza 6, Warszawa;mazowieckie;95;5,89
+24.01.2022;Circle K (Statoil); Pstrowskiego 10, Olsztyn;warmińsko-mazurskie;ON;5,91
