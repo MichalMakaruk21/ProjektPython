@@ -1,17 +1,25 @@
 import pandas as pd
 import numpy as np
+import datetime as dt
 import sklearn
 from sklearn import linear_model
 import matplotlib.pyplot as pyplot
 import pickle
 from matplotlib import style
 
-df0 = pd.read_csv('PetrolData.csv', decimal=',', sep=';') #pobranie danych z pliku
+# pobranie danych z pliku
+df0 = pd.read_csv('PetrolData.csv', decimal=',', sep=';')
 
-df0['WeekDay'] = pd.to_datetime(df0['Date'], format="%d.%m.%Y").dt.dayofweek #konwersja stringa z datą na dzień tygodnia(zwraca w cyfrach 0-6)
+# Regrasja liniowa nie operuje na datetime, dlatego trzeba przekonwertować datę na
+# wersję proleptycznego kalendarza gregoriańskiego (int64).
+df0['Date'] = pd.to_datetime(df0['Date'], format='%d.%m.%Y').apply(lambda x: x.toordinal())
 
-df1 = df0.loc[:, ['WeekDay', 'Province', 'Company', 'Fuel', 'Prize']] #nowy dataframe bez danych adresowych
+# nowy dataframe bez danych adresowych
+df0 = df0.loc[:, ['Date', 'Province', 'Company', 'Fuel', 'Prize']]
 
+print(df0)
+
+"""
 df1['WeekDay'] = np.where(df1['WeekDay'] == 0, 'Monday',    #Konwersja numeru dnia tygodnia na nazwę dnia tygodnia
                               np.where(df1['WeekDay'] == 1, 'Tuesday',
                                         np.where(df1['WeekDay'] == 2, 'Wednesday',
@@ -32,7 +40,7 @@ def Save_Model ():
     #Aby sprawdzić skuteczność, proszę usunąć plik 'FuelModel.pickle' i odkomentować wywołanie funkcji 'Save_Model()'"
     best_acc_score = 0 #pętla wybierająca i zapsijąca z z 50 modeli, jednen z największą skutecznością
     for acc_p in range(50):
-        x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(X, y, test_size=0.25)
+        x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(X, y, test_size=0.25, random_state=0)
 
         linear = linear_model.LinearRegression() #przypisanie do zmninnej 'linear' do funkcji regresjii liniowej
 
@@ -63,3 +71,4 @@ def Predict_and_visualise():
     pyplot.ylabel("True Price")
     return pyplot.show()
 Predict_and_visualise()
+"""
